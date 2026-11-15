@@ -1,0 +1,104 @@
+{
+  "video": "por-que-usar-ia.mp4",
+  "generatedAt": "2026-11-15T19:43:40.820Z",
+  "durationSec": 110.208,
+  "sizeBytes": 48987368,
+  "result": "OK_CON_AVISOS",
+  "checks": [
+    {
+      "name": "Stream de video",
+      "status": "ok",
+      "detail": "h264 1080x1920"
+    },
+    {
+      "name": "Códec H.264",
+      "status": "ok",
+      "detail": "h264"
+    },
+    {
+      "name": "Resolución 1080x1920 (9:16)",
+      "status": "ok",
+      "detail": "1080x1920"
+    },
+    {
+      "name": "FPS = 30",
+      "status": "ok",
+      "detail": "30.00"
+    },
+    {
+      "name": "Píxel yuv420p (rango TV)",
+      "status": "ok",
+      "detail": "yuv420p tv"
+    },
+    {
+      "name": "Stream de audio AAC",
+      "status": "ok",
+      "detail": "aac 48000 Hz"
+    },
+    {
+      "name": "Duración = timeline",
+      "status": "ok",
+      "detail": "110.208 s vs 110.200 s esperados"
+    },
+    {
+      "name": "Duración en rango 100-130 s",
+      "status": "ok",
+      "detail": "110.2 s"
+    },
+    {
+      "name": "Audio cubre el video",
+      "status": "ok",
+      "detail": "audio 110.21 s"
+    },
+    {
+      "name": "Decodificación íntegra",
+      "status": "ok",
+      "detail": "sin errores"
+    },
+    {
+      "name": "Sin tramos en negro (≥0,5 s)",
+      "status": "ok",
+      "detail": "ninguno (442 muestras)"
+    },
+    {
+      "name": "Sin imagen congelada (≥4 s)",
+      "status": "ok",
+      "detail": "ninguno"
+    },
+    {
+      "name": "Volumen medio audible (> -35 dBFS)",
+      "status": "ok",
+      "detail": "-19.8 dBFS"
+    },
+    {
+      "name": "Sin saturación (pico < -0,1 dBFS)",
+      "status": "ok",
+      "detail": "-1.7 dBFS"
+    },
+    {
+      "name": "Sin silencios largos (>1,5 s)",
+      "status": "warn",
+      "detail": "108.6-110.2 s"
+    },
+    {
+      "name": "Subtítulos dentro del video",
+      "status": "ok",
+      "detail": "último subtítulo termina en 108.76 s"
+    },
+    {
+      "name": "Cada escena tiene subtítulos dentro de su audio",
+      "status": "ok",
+      "detail": "ok"
+    },
+    {
+      "name": "Fotogramas de revisión",
+      "status": "ok",
+      "detail": "28 en review/"
+    }
+  ],
+  "manualReviewRequired": [
+    "Revisar review/index.html (texto fuera de pantalla, solapes, legibilidad).",
+    "Ver el MP4 completo con audio: pronunciación, ritmo y sincronía de subtítulos.",
+    "Confirmar exactitud técnica frente a sources.md antes de publicar."
+  ]
+}

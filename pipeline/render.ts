@@ -19,6 +19,8 @@ export const renderVideo = async (slug: string, timeline: Timeline, opts: { scen
     extra.push(`--frames=${sc.startFrame}-${sc.startFrame + sc.durationInFrames - 1}`);
   }
   ensureDir(path.dirname(out));
+  // Opcional: navegador propio (p. ej. un Chromium que ya confía en el proxy del entorno).
+  if (process.env.REMOTION_BROWSER_EXECUTABLE) extra.push(`--browser-executable=${process.env.REMOTION_BROWSER_EXECUTABLE}`);
 
   log.step(opts.sceneId ? `Render parcial de ${opts.sceneId}` : "Render del video completo");
   const started = Date.now();

@@ -35,6 +35,14 @@ export const synthesizeAzure = async (tokens: Token[], base: string, cfg: AzureC
 
   const speechConfig = sdk.SpeechConfig.fromSubscription(key, region);
   speechConfig.speechSynthesisVoiceName = cfg.voice;
+  // El SDK abre un WebSocket que ignora HTTPS_PROXY: se lo indicamos explícitamente.
+  const proxy = process.env.HTTPS_PROXY || process.env.https_proxy;
+  if (proxy) {
+    const p = new URL(proxy);
+    const port = Number(p.port) || 80;
+    if (p.username) speechConfig.setProxy(p.hostname, port, decodeURIComponent(p.username), decodeURIComponent(p.password));
+    else speechConfig.setProxy(p.hostname, port);
+  }
   speechConfig.speechSynthesisOutputFormat = sdk.SpeechSynthesisOutputFormat.Riff24Khz16BitMonoPcm;
   // Sin AudioConfig: el audio vuelve en result.audioData (no se reproduce por altavoces).
   const synth = new sdk.SpeechSynthesizer(speechConfig, null as unknown as sdk.AudioConfig);

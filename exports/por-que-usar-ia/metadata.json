@@ -1,0 +1,127 @@
+{
+  "slug": "por-que-usar-ia",
+  "topic": "Por qué usar IA para crear contenido: este mismo video lo hizo Claude",
+  "category": "ia",
+  "platform": "todas",
+  "fps": 30,
+  "resolution": "1080x1920",
+  "durationSec": 110.2,
+  "publish": {
+    "title": "Por qué usar IA: este video lo hizo Claude (y así lo hice)",
+    "description": "Este mismo video lo construí con Claude Code: tema, investigación, guion, voz, animación, render y revisión de fotogramas. Te cuento el flujo, las ventajas y los límites de crear contenido con IA.\n\nTransparencia: guion y producción hechos con ayuda de IA (Claude, de Anthropic); la voz es sintética. Yo elijo el tema, apruebo el resultado y publico. El chat del video es una recreación ilustrativa.",
+    "hashtags": [
+      "#ia",
+      "#claude",
+      "#claudecode",
+      "#inteligenciaartificial",
+      "#creadordecontenido",
+      "#automatizacion"
+    ]
+  },
+  "tts": {
+    "provider": "elevenlabs"
+  },
+  "music": null,
+  "scenes": [
+    {
+      "id": "gancho",
+      "start": 0,
+      "duration": 6.266666666666667,
+      "visual": "kinetic",
+      "background": "aurora"
+    },
+    {
+      "id": "por-que",
+      "start": 6.266666666666667,
+      "duration": 10.133333333333333,
+      "visual": "bullets",
+      "background": "aurora"
+    },
+    {
+      "id": "herramienta",
+      "start": 16.4,
+      "duration": 7,
+      "visual": "title",
+      "background": "grid"
+    },
+    {
+      "id": "tema",
+      "start": 23.4,
+      "duration": 6.433333333333334,
+      "visual": "bullets",
+      "background": "aurora"
+    },
+    {
+      "id": "guion",
+      "start": 29.833333333333332,
+      "duration": 6.433333333333334,
+      "visual": "code",
+      "background": "grid"
+    },
+    {
+      "id": "fuentes",
+      "start": 36.266666666666666,
+      "duration": 5.966666666666667,
+      "visual": "code",
+      "background": "aurora"
+    },
+    {
+      "id": "render",
+      "start": 42.233333333333334,
+      "duration": 7.7,
+      "visual": "bullets",
+      "background": "aurora"
+    },
+    {
+      "id": "revision",
+      "start": 49.93333333333333,
+      "duration": 7.833333333333333,
+      "visual": "kinetic",
+      "background": "blocks"
+    },
+    {
+      "id": "cambios",
+      "start": 57.766666666666666,
+      "duration": 7.733333333333333,
+      "visual": "chat",
+      "background": "aurora"
+    },
+    {
+      "id": "humano",
+      "start": 65.5,
+      "duration": 7.366666666666666,
+      "visual": "verdict",
+      "background": "aurora"
+    },
+    {
+      "id": "ventajas",
+      "start": 72.86666666666666,
+      "duration": 9.566666666666666,
+      "visual": "bullets",
+      "background": "aurora"
+    },
+    {
+      "id": "ventajas-2",
+      "start": 82.43333333333334,
+      "duration": 8.333333333333334,
+      "visual": "versus",
+      "background": "aurora"
+    },
+    {
+      "id": "limites",
+      "start": 90.76666666666667,
+      "duration": 7.733333333333333,
+      "visual": "kinetic",
+      "background": "blocks"
+    },
+    {
+      "id": "cierre",
+      "start": 98.5,
+      "duration": 11.7,
+      "visual": "outro",
+      "background": "aurora"
+    }
+  ],
+  "validation": null,
+  "approvedForPublishing": false
+}

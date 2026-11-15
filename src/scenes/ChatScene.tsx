@@ -19,7 +19,8 @@ export const ChatScene: React.FC<{ visual: Props }> = ({ visual }) => {
   const replyEnd = promptEnd + 6 + Math.min(replyLen * 0.5, budget * 0.2);
   const codeLen = visual.code?.length ?? 0;
   const codeEnd = Math.min(replyEnd + 4 + codeLen * 0.45, budget);
-  const typed = (start: number, end: number, len: number) => Math.floor(interpolate(frame, [start, end], [0, len], clamp));
+  const typed = (start: number, end: number, len: number) =>
+    len <= 0 || end <= start ? (frame >= start ? len : 0) : Math.floor(interpolate(frame, [start, end], [0, len], clamp));
   const promptChars = typed(6, promptEnd, visual.prompt.length);
   const replyChars = typed(promptEnd + 6, replyEnd, replyLen);
   const codeChars = typed(replyEnd + 4, codeEnd, codeLen);
