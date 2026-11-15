@@ -1,0 +1,7 @@
+Una variable es un nombre que guarda un valor para usarlo después. Te lo explico con cofres y diamantes al estilo Minecraft y un ejemplo real en Python que imprime 8.
+
+Dato técnico: en Python la variable es una etiqueta que apunta al valor. Fuente: documentación oficial de Python (docs.python.org).
+
+Las escenas de bloques son animaciones ilustrativas, no gameplay real.
+
+#programacion #python #aprendeaprogramar #minecraft #variables #tecnologia

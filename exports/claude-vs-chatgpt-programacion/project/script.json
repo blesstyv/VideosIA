@@ -1,0 +1,320 @@
+{
+  "title": "Claude vs ChatGPT para programar: ¿vale la pena pagar?",
+  "stamp": "Datos oficiales · 15 nov 2026",
+  "pronunciation": {
+    "ChatGPT": "chat ge pe te",
+    "GPT-6": "ge pe te seis",
+    "Claude": "Clod",
+    "Codex": "Códex",
+    "Sonnet": "Sónet",
+    "Haiku": "Jáiku"
+  },
+  "scenes": [
+    {
+      "id": "gancho",
+      "section": "intro",
+      "narration": "¿Claude o ChatGPT para programar? Y la gran pregunta: ¿vale la pena pagar?",
+      "transitionIn": "none",
+      "visual": {
+        "type": "illustration",
+        "art": "hook",
+        "beats": {
+          "a": "Claude",
+          "b": "ChatGPT",
+          "pay": "pagar?"
+        }
+      }
+    },
+    {
+      "id": "metodo",
+      "section": "intro",
+      "narration": "Revisé las páginas oficiales de los dos. Vamos con datos.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "research",
+        "beats": {
+          "pages": "páginas",
+          "data": "datos."
+        }
+      }
+    },
+    {
+      "id": "gratis",
+      "section": "desarrollo",
+      "narration": "Gratis, Claude te deja chatear con Sonnet y Haiku, pero sin Claude Code. ChatGPT gratis incluye GPT-6 y un poco de Codex, su agente de programación.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "free",
+        "beats": {
+          "a": "Claude",
+          "chatA": "Sonnet",
+          "lock": "sin",
+          "b": "ChatGPT",
+          "chatB": "incluye",
+          "batt": "Codex,"
+        }
+      }
+    },
+    {
+      "id": "agente",
+      "section": "ejemplo",
+      "narration": "¿Y qué es un agente? Uno como Claude Code lee tu proyecto, edita archivos y ejecuta comandos por ti.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "agent",
+        "beats": {
+          "read": "lee",
+          "edit": "edita",
+          "run": "ejecuta"
+        },
+        "note": "Recreación ilustrativa"
+      }
+    },
+    {
+      "id": "plan-20",
+      "section": "desarrollo",
+      "narration": "Con veinte dólares al mes cambia todo: Claude Pro desbloquea Claude Code, y ChatGPT Plus amplía tu uso de Codex.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "paid",
+        "beats": {
+          "coin": "veinte",
+          "unlock": "desbloquea",
+          "fill": "amplía"
+        },
+        "note": "Precios en USD (EE. UU.), sin impuestos"
+      }
+    },
+    {
+      "id": "limites",
+      "section": "desarrollo",
+      "narration": "Ojo: en Claude, el chat y Claude Code gastan del mismo cupo.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "quota",
+        "beats": {
+          "chat": "chat",
+          "code": "Code",
+          "drain": "gastan"
+        }
+      }
+    },
+    {
+      "id": "planes-caros",
+      "section": "desarrollo",
+      "narration": "Los planes de cien dólares o más dan mucho más uso. Son para quien programa con agentes todo el día.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "tiers",
+        "beats": {
+          "t100": "cien",
+          "t200": "más",
+          "agents": "agentes"
+        },
+        "note": "Precios en USD (EE. UU.), sin impuestos"
+      }
+    },
+    {
+      "id": "veredicto",
+      "section": "cierre",
+      "narration": "Mi consejo: si estás aprendiendo, empieza gratis. Si programas a diario, el plan de veinte vale la pena. Y prueba los dos con tu propio proyecto.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "verdict",
+        "beats": {
+          "learn": "aprendiendo,",
+          "free": "gratis.",
+          "daily": "diario,",
+          "twenty": "veinte",
+          "try": "prueba"
+        },
+        "note": "Recomendación del canal"
+      }
+    },
+    {
+      "id": "cierre",
+      "section": "cierre",
+      "narration": "¿Tú cuál usas? Te leo en comentarios.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "illustration",
+        "art": "outro",
+        "beats": {
+          "bump": "usas?",
+          "comment": "comentarios."
+        }
+      }
+    }
+  ],
+  "claims": [
+    {
+      "text": "Claude Free incluye Sonnet y Haiku con uso limitado y no incluye Claude Code.",
+      "status": "verified",
+      "sources": [
+        "claude-pricing"
+      ],
+      "sceneIds": [
+        "gratis"
+      ]
+    },
+    {
+      "text": "ChatGPT Free incluye GPT-6 y acceso limitado a Codex.",
+      "status": "verified",
+      "sources": [
+        "chatgpt-pricing"
+      ],
+      "sceneIds": [
+        "gratis"
+      ]
+    },
+    {
+      "text": "Claude Code lee la base de código, edita archivos y ejecuta comandos.",
+      "status": "verified",
+      "sources": [
+        "claude-code-docs"
+      ],
+      "sceneIds": [
+        "agente"
+      ]
+    },
+    {
+      "text": "Claude Pro cuesta 20 USD/mes e incluye Claude Code.",
+      "status": "verified",
+      "sources": [
+        "claude-pricing",
+        "claude-code-plans"
+      ],
+      "sceneIds": [
+        "plan-20"
+      ]
+    },
+    {
+      "text": "ChatGPT Plus cuesta 20 USD/mes en EE. UU. e incluye uso ampliado de Codex. NOTA: el importe en USD se confirmó en el índice de búsqueda de la página oficial; la página en vivo muestra la moneda local.",
+      "status": "verified",
+      "sources": [
+        "chatgpt-pricing-usd",
+        "chatgpt-pricing"
+      ],
+      "sceneIds": [
+        "plan-20"
+      ]
+    },
+    {
+      "text": "En los planes de pago de Claude, el chat y Claude Code comparten el mismo límite de uso.",
+      "status": "verified",
+      "sources": [
+        "claude-code-plans"
+      ],
+      "sceneIds": [
+        "limites"
+      ]
+    },
+    {
+      "text": "Claude Max cuesta 100 USD/mes con 5 veces el uso de Pro; Claude Ultra cuesta 200 USD/mes con 10 veces el uso semanal de Pro.",
+      "status": "verified",
+      "sources": [
+        "claude-pricing"
+      ],
+      "sceneIds": [
+        "planes-caros"
+      ]
+    },
+    {
+      "text": "ChatGPT Pro empieza en 100 USD/mes con varios niveles de uso.",
+      "status": "verified",
+      "sources": [
+        "chatgpt-pricing",
+        "codex-pricing"
+      ],
+      "sceneIds": [
+        "planes-caros"
+      ]
+    },
+    {
+      "text": "La animación del agente es una recreación genérica, no una captura de ninguna herramienta.",
+      "status": "illustrative",
+      "sceneIds": [
+        "agente"
+      ]
+    },
+    {
+      "text": "Que los planes de 100 USD son para quien programa con agentes todo el día es una valoración del canal.",
+      "status": "illustrative",
+      "sceneIds": [
+        "planes-caros"
+      ]
+    },
+    {
+      "text": "El consejo por perfil es una recomendación del canal.",
+      "status": "illustrative",
+      "sceneIds": [
+        "veredicto",
+        "cierre"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "claude-pricing",
+      "title": "Claude — Plans & pricing",
+      "url": "https://claude.com/pricing",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "claude-code-plans",
+      "title": "Claude Help Center — Use Claude Code with your Pro, Max, or Ultra plan",
+      "url": "https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "claude-code-docs",
+      "title": "Claude Code — Overview",
+      "url": "https://code.claude.com/docs/en/overview",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "chatgpt-pricing",
+      "title": "ChatGPT — Planes y precios",
+      "url": "https://chatgpt.com/es-419/pricing/",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "chatgpt-pricing-usd",
+      "title": "OpenAI — ChatGPT Pricing (USD, vía índice de búsqueda)",
+      "url": "https://openai.com/chatgpt/pricing/",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "codex-pricing",
+      "title": "Codex — Pricing",
+      "url": "https://chatgpt.com/codex/pricing/",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "codex-page",
+      "title": "Codex",
+      "url": "https://chatgpt.com/codex/",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "publish": {
+    "title": "Claude vs ChatGPT para programar: ¿vale la pena pagar? (2026)",
+    "description": "Comparé los planes oficiales de Claude y ChatGPT para programar: qué incluye el plan gratis, qué te da el de 20 dólares (Claude Code y Codex) y cuándo tienen sentido los planes de 100 o más.\n\nPrecios en USD de EE. UU., sin impuestos, consultados el 15/11/2026 en las páginas oficiales de Anthropic y OpenAI. Pueden variar en tu país.\n\nTransparencia: guion investigado y redactado con ayuda de IA (Claude, de Anthropic). El veredicto es una recomendación del canal y la animación del agente es una recreación ilustrativa.",
+    "hashtags": [
+      "#claude",
+      "#chatgpt",
+      "#programacion",
+      "#ia",
+      "#inteligenciaartificial",
+      "#codex",
+      "#claudecode"
+    ]
+  }
+}

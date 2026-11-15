@@ -1,0 +1,2292 @@
+{
+  "version": 1,
+  "slug": "claude-vs-chatgpt-programacion",
+  "category": "ia",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "durationInFrames": 1990,
+  "transitionFrames": 14,
+  "scenes": [
+    {
+      "id": "gancho",
+      "startFrame": 0,
+      "durationInFrames": 184,
+      "visualDurationInFrames": 198,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/gancho.wav",
+      "audioDurationInFrames": 173,
+      "transitionIn": "none",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "hook",
+        "beats": {
+          "a": "Claude",
+          "b": "ChatGPT",
+          "pay": "pagar?"
+        }
+      },
+      "cues": {
+        "claude": 2,
+        "o": 10,
+        "chatgpt": 13,
+        "para": 35,
+        "programar": 42,
+        "y": 88,
+        "la": 93,
+        "gran": 97,
+        "pregunta": 105,
+        "vale": 131,
+        "pena": 143,
+        "pagar": 151
+      },
+      "words": [
+        {
+          "text": "¿Claude",
+          "frame": 2
+        },
+        {
+          "text": "o",
+          "frame": 10
+        },
+        {
+          "text": "ChatGPT",
+          "frame": 13
+        },
+        {
+          "text": "para",
+          "frame": 35
+        },
+        {
+          "text": "programar?",
+          "frame": 42
+        },
+        {
+          "text": "Y",
+          "frame": 88
+        },
+        {
+          "text": "la",
+          "frame": 93
+        },
+        {
+          "text": "gran",
+          "frame": 97
+        },
+        {
+          "text": "pregunta:",
+          "frame": 105
+        },
+        {
+          "text": "¿vale",
+          "frame": 131
+        },
+        {
+          "text": "la",
+          "frame": 139
+        },
+        {
+          "text": "pena",
+          "frame": 143
+        },
+        {
+          "text": "pagar?",
+          "frame": 151
+        }
+      ]
+    },
+    {
+      "id": "metodo",
+      "startFrame": 184,
+      "durationInFrames": 156,
+      "visualDurationInFrames": 170,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/metodo.wav",
+      "audioDurationInFrames": 145,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "research",
+        "beats": {
+          "pages": "páginas",
+          "data": "datos."
+        }
+      },
+      "cues": {
+        "revise": 2,
+        "las": 15,
+        "paginas": 22,
+        "oficiales": 37,
+        "de": 56,
+        "los": 59,
+        "dos": 64,
+        "vamos": 103,
+        "con": 116,
+        "datos": 121
+      },
+      "words": [
+        {
+          "text": "Revisé",
+          "frame": 2
+        },
+        {
+          "text": "las",
+          "frame": 15
+        },
+        {
+          "text": "páginas",
+          "frame": 22
+        },
+        {
+          "text": "oficiales",
+          "frame": 37
+        },
+        {
+          "text": "de",
+          "frame": 56
+        },
+        {
+          "text": "los",
+          "frame": 59
+        },
+        {
+          "text": "dos.",
+          "frame": 64
+        },
+        {
+          "text": "Vamos",
+          "frame": 103
+        },
+        {
+          "text": "con",
+          "frame": 116
+        },
+        {
+          "text": "datos.",
+          "frame": 121
+        }
+      ]
+    },
+    {
+      "id": "gratis",
+      "startFrame": 340,
+      "durationInFrames": 340,
+      "visualDurationInFrames": 354,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/gratis.wav",
+      "audioDurationInFrames": 329,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "free",
+        "beats": {
+          "a": "Claude",
+          "chatA": "Sonnet",
+          "lock": "sin",
+          "b": "ChatGPT",
+          "chatB": "incluye",
+          "batt": "Codex,"
+        }
+      },
+      "cues": {
+        "gratis": 2,
+        "claude": 26,
+        "te": 34,
+        "deja": 38,
+        "chatear": 47,
+        "con": 60,
+        "sonnet": 65,
+        "y": 77,
+        "haiku": 79,
+        "pero": 101,
+        "sin": 107,
+        "code": 123,
+        "chatgpt": 160,
+        "incluye": 195,
+        "gpt-6": 208,
+        "un": 238,
+        "poco": 242,
+        "de": 252,
+        "codex": 255,
+        "su": 276,
+        "agente": 281,
+        "programacion": 297
+      },
+      "words": [
+        {
+          "text": "Gratis,",
+          "frame": 2
+        },
+        {
+          "text": "Claude",
+          "frame": 26
+        },
+        {
+          "text": "te",
+          "frame": 34
+        },
+        {
+          "text": "deja",
+          "frame": 38
+        },
+        {
+          "text": "chatear",
+          "frame": 47
+        },
+        {
+          "text": "con",
+          "frame": 60
+        },
+        {
+          "text": "Sonnet",
+          "frame": 65
+        },
+        {
+          "text": "y",
+          "frame": 77
+        },
+        {
+          "text": "Haiku,",
+          "frame": 79
+        },
+        {
+          "text": "pero",
+          "frame": 101
+        },
+        {
+          "text": "sin",
+          "frame": 107
+        },
+        {
+          "text": "Claude",
+          "frame": 115
+        },
+        {
+          "text": "Code.",
+          "frame": 123
+        },
+        {
+          "text": "ChatGPT",
+          "frame": 160
+        },
+        {
+          "text": "gratis",
+          "frame": 181
+        },
+        {
+          "text": "incluye",
+          "frame": 195
+        },
+        {
+          "text": "GPT-6",
+          "frame": 208
+        },
+        {
+          "text": "y",
+          "frame": 235
+        },
+        {
+          "text": "un",
+          "frame": 238
+        },
+        {
+          "text": "poco",
+          "frame": 242
+        },
+        {
+          "text": "de",
+          "frame": 252
+        },
+        {
+          "text": "Codex,",
+          "frame": 255
+        },
+        {
+          "text": "su",
+          "frame": 276
+        },
+        {
+          "text": "agente",
+          "frame": 281
+        },
+        {
+          "text": "de",
+          "frame": 293
+        },
+        {
+          "text": "programación.",
+          "frame": 297
+        }
+      ]
+    },
+    {
+      "id": "agente",
+      "startFrame": 680,
+      "durationInFrames": 231,
+      "visualDurationInFrames": 245,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/agente.wav",
+      "audioDurationInFrames": 220,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "agent",
+        "beats": {
+          "read": "lee",
+          "edit": "edita",
+          "run": "ejecuta"
+        },
+        "note": "Recreación ilustrativa"
+      },
+      "cues": {
+        "y": 2,
+        "que": 7,
+        "es": 12,
+        "un": 17,
+        "agente": 21,
+        "uno": 63,
+        "como": 72,
+        "claude": 79,
+        "code": 88,
+        "lee": 97,
+        "tu": 104,
+        "proyecto": 107,
+        "edita": 132,
+        "archivos": 143,
+        "ejecuta": 165,
+        "comandos": 179,
+        "por": 196,
+        "ti": 202
+      },
+      "words": [
+        {
+          "text": "¿Y",
+          "frame": 2
+        },
+        {
+          "text": "qué",
+          "frame": 7
+        },
+        {
+          "text": "es",
+          "frame": 12
+        },
+        {
+          "text": "un",
+          "frame": 17
+        },
+        {
+          "text": "agente?",
+          "frame": 21
+        },
+        {
+          "text": "Uno",
+          "frame": 63
+        },
+        {
+          "text": "como",
+          "frame": 72
+        },
+        {
+          "text": "Claude",
+          "frame": 79
+        },
+        {
+          "text": "Code",
+          "frame": 88
+        },
+        {
+          "text": "lee",
+          "frame": 97
+        },
+        {
+          "text": "tu",
+          "frame": 104
+        },
+        {
+          "text": "proyecto,",
+          "frame": 107
+        },
+        {
+          "text": "edita",
+          "frame": 132
+        },
+        {
+          "text": "archivos",
+          "frame": 143
+        },
+        {
+          "text": "y",
+          "frame": 161
+        },
+        {
+          "text": "ejecuta",
+          "frame": 165
+        },
+        {
+          "text": "comandos",
+          "frame": 179
+        },
+        {
+          "text": "por",
+          "frame": 196
+        },
+        {
+          "text": "ti.",
+          "frame": 202
+        }
+      ]
+    },
+    {
+      "id": "plan-20",
+      "startFrame": 911,
+      "durationInFrames": 232,
+      "visualDurationInFrames": 246,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/plan-20.wav",
+      "audioDurationInFrames": 221,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "paid",
+        "beats": {
+          "coin": "veinte",
+          "unlock": "desbloquea",
+          "fill": "amplía"
+        },
+        "note": "Precios en USD (EE. UU.), sin impuestos"
+      },
+      "cues": {
+        "con": 2,
+        "veinte": 9,
+        "dolares": 18,
+        "al": 33,
+        "mes": 37,
+        "cambia": 44,
+        "todo": 55,
+        "claude": 75,
+        "pro": 82,
+        "desbloquea": 88,
+        "code": 114,
+        "y": 131,
+        "chatgpt": 135,
+        "plus": 157,
+        "amplia": 166,
+        "tu": 178,
+        "uso": 183,
+        "de": 192,
+        "codex": 195
+      },
+      "words": [
+        {
+          "text": "Con",
+          "frame": 2
+        },
+        {
+          "text": "veinte",
+          "frame": 9
+        },
+        {
+          "text": "dólares",
+          "frame": 18
+        },
+        {
+          "text": "al",
+          "frame": 33
+        },
+        {
+          "text": "mes",
+          "frame": 37
+        },
+        {
+          "text": "cambia",
+          "frame": 44
+        },
+        {
+          "text": "todo:",
+          "frame": 55
+        },
+        {
+          "text": "Claude",
+          "frame": 75
+        },
+        {
+          "text": "Pro",
+          "frame": 82
+        },
+        {
+          "text": "desbloquea",
+          "frame": 88
+        },
+        {
+          "text": "Claude",
+          "frame": 106
+        },
+        {
+          "text": "Code,",
+          "frame": 114
+        },
+        {
+          "text": "y",
+          "frame": 131
+        },
+        {
+          "text": "ChatGPT",
+          "frame": 135
+        },
+        {
+          "text": "Plus",
+          "frame": 157
+        },
+        {
+          "text": "amplía",
+          "frame": 166
+        },
+        {
+          "text": "tu",
+          "frame": 178
+        },
+        {
+          "text": "uso",
+          "frame": 183
+        },
+        {
+          "text": "de",
+          "frame": 192
+        },
+        {
+          "text": "Codex.",
+          "frame": 195
+        }
+      ]
+    },
+    {
+      "id": "limites",
+      "startFrame": 1143,
+      "durationInFrames": 140,
+      "visualDurationInFrames": 154,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/limites.wav",
+      "audioDurationInFrames": 129,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "quota",
+        "beats": {
+          "chat": "chat",
+          "code": "Code",
+          "drain": "gastan"
+        }
+      },
+      "cues": {
+        "ojo": 2,
+        "en": 20,
+        "claude": 26,
+        "el": 46,
+        "chat": 50,
+        "y": 59,
+        "code": 70,
+        "gastan": 78,
+        "del": 91,
+        "mismo": 96,
+        "cupo": 107
+      },
+      "words": [
+        {
+          "text": "Ojo:",
+          "frame": 2
+        },
+        {
+          "text": "en",
+          "frame": 20
+        },
+        {
+          "text": "Claude,",
+          "frame": 26
+        },
+        {
+          "text": "el",
+          "frame": 46
+        },
+        {
+          "text": "chat",
+          "frame": 50
+        },
+        {
+          "text": "y",
+          "frame": 59
+        },
+        {
+          "text": "Claude",
+          "frame": 61
+        },
+        {
+          "text": "Code",
+          "frame": 70
+        },
+        {
+          "text": "gastan",
+          "frame": 78
+        },
+        {
+          "text": "del",
+          "frame": 91
+        },
+        {
+          "text": "mismo",
+          "frame": 96
+        },
+        {
+          "text": "cupo.",
+          "frame": 107
+        }
+      ]
+    },
+    {
+      "id": "planes-caros",
+      "startFrame": 1283,
+      "durationInFrames": 216,
+      "visualDurationInFrames": 230,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/planes-caros.wav",
+      "audioDurationInFrames": 205,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "tiers",
+        "beats": {
+          "t100": "cien",
+          "t200": "más",
+          "agents": "agentes"
+        },
+        "note": "Precios en USD (EE. UU.), sin impuestos"
+      },
+      "cues": {
+        "los": 2,
+        "planes": 9,
+        "de": 20,
+        "cien": 23,
+        "dolares": 32,
+        "o": 46,
+        "mas": 48,
+        "dan": 57,
+        "mucho": 62,
+        "uso": 80,
+        "son": 118,
+        "para": 127,
+        "quien": 133,
+        "programa": 140,
+        "con": 154,
+        "agentes": 160,
+        "todo": 176,
+        "el": 183,
+        "dia": 186
+      },
+      "words": [
+        {
+          "text": "Los",
+          "frame": 2
+        },
+        {
+          "text": "planes",
+          "frame": 9
+        },
+        {
+          "text": "de",
+          "frame": 20
+        },
+        {
+          "text": "cien",
+          "frame": 23
+        },
+        {
+          "text": "dólares",
+          "frame": 32
+        },
+        {
+          "text": "o",
+          "frame": 46
+        },
+        {
+          "text": "más",
+          "frame": 48
+        },
+        {
+          "text": "dan",
+          "frame": 57
+        },
+        {
+          "text": "mucho",
+          "frame": 62
+        },
+        {
+          "text": "más",
+          "frame": 73
+        },
+        {
+          "text": "uso.",
+          "frame": 80
+        },
+        {
+          "text": "Son",
+          "frame": 118
+        },
+        {
+          "text": "para",
+          "frame": 127
+        },
+        {
+          "text": "quien",
+          "frame": 133
+        },
+        {
+          "text": "programa",
+          "frame": 140
+        },
+        {
+          "text": "con",
+          "frame": 154
+        },
+        {
+          "text": "agentes",
+          "frame": 160
+        },
+        {
+          "text": "todo",
+          "frame": 176
+        },
+        {
+          "text": "el",
+          "frame": 183
+        },
+        {
+          "text": "día.",
+          "frame": 186
+        }
+      ]
+    },
+    {
+      "id": "veredicto",
+      "startFrame": 1499,
+      "durationInFrames": 349,
+      "visualDurationInFrames": 363,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/veredicto.wav",
+      "audioDurationInFrames": 338,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "verdict",
+        "beats": {
+          "learn": "aprendiendo,",
+          "free": "gratis.",
+          "daily": "diario,",
+          "twenty": "veinte",
+          "try": "prueba"
+        },
+        "note": "Recomendación del canal"
+      },
+      "cues": {
+        "mi": 2,
+        "consejo": 7,
+        "si": 32,
+        "estas": 37,
+        "aprendiendo": 47,
+        "empieza": 73,
+        "gratis": 89,
+        "programas": 142,
+        "a": 159,
+        "diario": 161,
+        "el": 183,
+        "plan": 189,
+        "de": 197,
+        "veinte": 200,
+        "vale": 211,
+        "la": 220,
+        "pena": 224,
+        "y": 263,
+        "prueba": 267,
+        "los": 278,
+        "dos": 284,
+        "con": 291,
+        "tu": 297,
+        "propio": 301,
+        "proyecto": 312
+      },
+      "words": [
+        {
+          "text": "Mi",
+          "frame": 2
+        },
+        {
+          "text": "consejo:",
+          "frame": 7
+        },
+        {
+          "text": "si",
+          "frame": 32
+        },
+        {
+          "text": "estás",
+          "frame": 37
+        },
+        {
+          "text": "aprendiendo,",
+          "frame": 47
+        },
+        {
+          "text": "empieza",
+          "frame": 73
+        },
+        {
+          "text": "gratis.",
+          "frame": 89
+        },
+        {
+          "text": "Si",
+          "frame": 135
+        },
+        {
+          "text": "programas",
+          "frame": 142
+        },
+        {
+          "text": "a",
+          "frame": 159
+        },
+        {
+          "text": "diario,",
+          "frame": 161
+        },
+        {
+          "text": "el",
+          "frame": 183
+        },
+        {
+          "text": "plan",
+          "frame": 189
+        },
+        {
+          "text": "de",
+          "frame": 197
+        },
+        {
+          "text": "veinte",
+          "frame": 200
+        },
+        {
+          "text": "vale",
+          "frame": 211
+        },
+        {
+          "text": "la",
+          "frame": 220
+        },
+        {
+          "text": "pena.",
+          "frame": 224
+        },
+        {
+          "text": "Y",
+          "frame": 263
+        },
+        {
+          "text": "prueba",
+          "frame": 267
+        },
+        {
+          "text": "los",
+          "frame": 278
+        },
+        {
+          "text": "dos",
+          "frame": 284
+        },
+        {
+          "text": "con",
+          "frame": 291
+        },
+        {
+          "text": "tu",
+          "frame": 297
+        },
+        {
+          "text": "propio",
+          "frame": 301
+        },
+        {
+          "text": "proyecto.",
+          "frame": 312
+        }
+      ]
+    },
+    {
+      "id": "cierre",
+      "startFrame": 1848,
+      "durationInFrames": 142,
+      "visualDurationInFrames": 142,
+      "audioSrc": "generated/claude-vs-chatgpt-programacion/audio/cierre.wav",
+      "audioDurationInFrames": 104,
+      "transitionIn": "fade",
+      "background": {
+        "kind": "aurora"
+      },
+      "visual": {
+        "type": "illustration",
+        "art": "outro",
+        "beats": {
+          "bump": "usas?",
+          "comment": "comentarios."
+        }
+      },
+      "cues": {
+        "tu": 2,
+        "cual": 6,
+        "usas": 13,
+        "te": 56,
+        "leo": 60,
+        "en": 67,
+        "comentarios": 70
+      },
+      "words": [
+        {
+          "text": "¿Tú",
+          "frame": 2
+        },
+        {
+          "text": "cuál",
+          "frame": 6
+        },
+        {
+          "text": "usas?",
+          "frame": 13
+        },
+        {
+          "text": "Te",
+          "frame": 56
+        },
+        {
+          "text": "leo",
+          "frame": 60
+        },
+        {
+          "text": "en",
+          "frame": 67
+        },
+        {
+          "text": "comentarios.",
+          "frame": 70
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "text": " ¿Claude",
+      "startMs": 52,
+      "endMs": 335,
+      "timestampMs": 194,
+      "confidence": null
+    },
+    {
+      "text": " o",
+      "startMs": 335,
+      "endMs": 425,
+      "timestampMs": 380,
+      "confidence": null
+    },
+    {
+      "text": " ChatGPT",
+      "startMs": 425,
+      "endMs": 1160,
+      "timestampMs": 793,
+      "confidence": null
+    },
+    {
+      "text": " para",
+      "startMs": 1160,
+      "endMs": 1392,
+      "timestampMs": 1276,
+      "confidence": null
+    },
+    {
+      "text": " programar?",
+      "startMs": 1392,
+      "endMs": 2938,
+      "timestampMs": 2165,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Y",
+      "startMs": 2938,
+      "endMs": 3093,
+      "timestampMs": 3016,
+      "confidence": null
+    },
+    {
+      "text": " la",
+      "startMs": 3093,
+      "endMs": 3235,
+      "timestampMs": 3164,
+      "confidence": null
+    },
+    {
+      "text": " gran",
+      "startMs": 3235,
+      "endMs": 3492,
+      "timestampMs": 3364,
+      "confidence": null
+    },
+    {
+      "text": " pregunta:",
+      "startMs": 3492,
+      "endMs": 4369,
+      "timestampMs": 3931,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ¿vale",
+      "startMs": 4369,
+      "endMs": 4626,
+      "timestampMs": 4498,
+      "confidence": null
+    },
+    {
+      "text": " la",
+      "startMs": 4626,
+      "endMs": 4755,
+      "timestampMs": 4691,
+      "confidence": null
+    },
+    {
+      "text": " pena",
+      "startMs": 4755,
+      "endMs": 5039,
+      "timestampMs": 4897,
+      "confidence": null
+    },
+    {
+      "text": " pagar?",
+      "startMs": 5039,
+      "endMs": 5739,
+      "timestampMs": 5389,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Revisé",
+      "startMs": 6185,
+      "endMs": 6648,
+      "timestampMs": 6417,
+      "confidence": null
+    },
+    {
+      "text": " las",
+      "startMs": 6648,
+      "endMs": 6855,
+      "timestampMs": 6752,
+      "confidence": null
+    },
+    {
+      "text": " páginas",
+      "startMs": 6855,
+      "endMs": 7370,
+      "timestampMs": 7113,
+      "confidence": null
+    },
+    {
+      "text": " oficiales",
+      "startMs": 7370,
+      "endMs": 8002,
+      "timestampMs": 7686,
+      "confidence": null
+    },
+    {
+      "text": " de",
+      "startMs": 8002,
+      "endMs": 8092,
+      "timestampMs": 8047,
+      "confidence": null
+    },
+    {
+      "text": " los",
+      "startMs": 8092,
+      "endMs": 8272,
+      "timestampMs": 8182,
+      "confidence": null
+    },
+    {
+      "text": " dos.",
+      "startMs": 8272,
+      "endMs": 9561,
+      "timestampMs": 8917,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Vamos",
+      "startMs": 9561,
+      "endMs": 9986,
+      "timestampMs": 9774,
+      "confidence": null
+    },
+    {
+      "text": " con",
+      "startMs": 9986,
+      "endMs": 10179,
+      "timestampMs": 10083,
+      "confidence": null
+    },
+    {
+      "text": " datos.",
+      "startMs": 10179,
+      "endMs": 10879,
+      "timestampMs": 10529,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Gratis,",
+      "startMs": 11385,
+      "endMs": 12196,
+      "timestampMs": 11791,
+      "confidence": null
+    },
+    {
+      "text": " Claude",
+      "startMs": 12196,
+      "endMs": 12480,
+      "timestampMs": 12338,
+      "confidence": null
+    },
+    {
+      "text": " te",
+      "startMs": 12480,
+      "endMs": 12596,
+      "timestampMs": 12538,
+      "confidence": null
+    },
+    {
+      "text": " deja",
+      "startMs": 12596,
+      "endMs": 12892,
+      "timestampMs": 12744,
+      "confidence": null
+    },
+    {
+      "text": " chatear",
+      "startMs": 12892,
+      "endMs": 13318,
+      "timestampMs": 13105,
+      "confidence": null
+    },
+    {
+      "text": " con",
+      "startMs": 13318,
+      "endMs": 13511,
+      "timestampMs": 13415,
+      "confidence": null
+    },
+    {
+      "text": " Sonnet",
+      "startMs": 13511,
+      "endMs": 13910,
+      "timestampMs": 13711,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 13910,
+      "endMs": 13990,
+      "timestampMs": 13950,
+      "confidence": null
+    },
+    {
+      "text": " Haiku,",
+      "startMs": 13975,
+      "endMs": 14696,
+      "timestampMs": 14336,
+      "confidence": null
+    },
+    {
+      "text": " pero",
+      "startMs": 14696,
+      "endMs": 14915,
+      "timestampMs": 14806,
+      "confidence": null
+    },
+    {
+      "text": " sin",
+      "startMs": 14915,
+      "endMs": 15160,
+      "timestampMs": 15038,
+      "confidence": null
+    },
+    {
+      "text": " Claude",
+      "startMs": 15160,
+      "endMs": 15431,
+      "timestampMs": 15296,
+      "confidence": null
+    },
+    {
+      "text": " Code.",
+      "startMs": 15431,
+      "endMs": 16655,
+      "timestampMs": 16043,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ChatGPT",
+      "startMs": 16655,
+      "endMs": 17377,
+      "timestampMs": 17016,
+      "confidence": null
+    },
+    {
+      "text": " gratis",
+      "startMs": 17377,
+      "endMs": 17828,
+      "timestampMs": 17603,
+      "confidence": null
+    },
+    {
+      "text": " incluye",
+      "startMs": 17828,
+      "endMs": 18279,
+      "timestampMs": 18054,
+      "confidence": null
+    },
+    {
+      "text": " GPT-6",
+      "startMs": 18279,
+      "endMs": 19168,
+      "timestampMs": 18724,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 19168,
+      "endMs": 19258,
+      "timestampMs": 19213,
+      "confidence": null
+    },
+    {
+      "text": " un",
+      "startMs": 19258,
+      "endMs": 19413,
+      "timestampMs": 19336,
+      "confidence": null
+    },
+    {
+      "text": " poco",
+      "startMs": 19413,
+      "endMs": 19722,
+      "timestampMs": 19568,
+      "confidence": null
+    },
+    {
+      "text": " de",
+      "startMs": 19722,
+      "endMs": 19838,
+      "timestampMs": 19780,
+      "confidence": null
+    },
+    {
+      "text": " Codex,",
+      "startMs": 19838,
+      "endMs": 20521,
+      "timestampMs": 20180,
+      "confidence": null
+    },
+    {
+      "text": " su",
+      "startMs": 20521,
+      "endMs": 20702,
+      "timestampMs": 20612,
+      "confidence": null
+    },
+    {
+      "text": " agente",
+      "startMs": 20702,
+      "endMs": 21101,
+      "timestampMs": 20902,
+      "confidence": null
+    },
+    {
+      "text": " de",
+      "startMs": 21101,
+      "endMs": 21230,
+      "timestampMs": 21166,
+      "confidence": null
+    },
+    {
+      "text": " programación.",
+      "startMs": 21230,
+      "endMs": 21930,
+      "timestampMs": 21580,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ¿Y",
+      "startMs": 22719,
+      "endMs": 22886,
+      "timestampMs": 22802,
+      "confidence": null
+    },
+    {
+      "text": " qué",
+      "startMs": 22886,
+      "endMs": 23079,
+      "timestampMs": 22982,
+      "confidence": null
+    },
+    {
+      "text": " es",
+      "startMs": 23079,
+      "endMs": 23247,
+      "timestampMs": 23163,
+      "confidence": null
+    },
+    {
+      "text": " un",
+      "startMs": 23247,
+      "endMs": 23363,
+      "timestampMs": 23305,
+      "confidence": null
+    },
+    {
+      "text": " agente?",
+      "startMs": 23363,
+      "endMs": 24780,
+      "timestampMs": 24071,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Uno",
+      "startMs": 24780,
+      "endMs": 25051,
+      "timestampMs": 24915,
+      "confidence": null
+    },
+    {
+      "text": " como",
+      "startMs": 25051,
+      "endMs": 25309,
+      "timestampMs": 25180,
+      "confidence": null
+    },
+    {
+      "text": " Claude",
+      "startMs": 25309,
+      "endMs": 25605,
+      "timestampMs": 25457,
+      "confidence": null
+    },
+    {
+      "text": " Code",
+      "startMs": 25605,
+      "endMs": 25889,
+      "timestampMs": 25747,
+      "confidence": null
+    },
+    {
+      "text": " lee",
+      "startMs": 25889,
+      "endMs": 26121,
+      "timestampMs": 26005,
+      "confidence": null
+    },
+    {
+      "text": " tu",
+      "startMs": 26121,
+      "endMs": 26249,
+      "timestampMs": 26185,
+      "confidence": null
+    },
+    {
+      "text": " proyecto,",
+      "startMs": 26249,
+      "endMs": 27074,
+      "timestampMs": 26661,
+      "confidence": null
+    },
+    {
+      "text": " edita",
+      "startMs": 27074,
+      "endMs": 27435,
+      "timestampMs": 27254,
+      "confidence": null
+    },
+    {
+      "text": " archivos",
+      "startMs": 27435,
+      "endMs": 28041,
+      "timestampMs": 27738,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 28041,
+      "endMs": 28157,
+      "timestampMs": 28099,
+      "confidence": null
+    },
+    {
+      "text": " ejecuta",
+      "startMs": 28157,
+      "endMs": 28646,
+      "timestampMs": 28401,
+      "confidence": null
+    },
+    {
+      "text": " comandos",
+      "startMs": 28646,
+      "endMs": 29188,
+      "timestampMs": 28917,
+      "confidence": null
+    },
+    {
+      "text": " por",
+      "startMs": 29188,
+      "endMs": 29394,
+      "timestampMs": 29291,
+      "confidence": null
+    },
+    {
+      "text": " ti.",
+      "startMs": 29394,
+      "endMs": 29993,
+      "timestampMs": 29693,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Con",
+      "startMs": 30419,
+      "endMs": 30651,
+      "timestampMs": 30535,
+      "confidence": null
+    },
+    {
+      "text": " veinte",
+      "startMs": 30651,
+      "endMs": 30960,
+      "timestampMs": 30805,
+      "confidence": null
+    },
+    {
+      "text": " dólares",
+      "startMs": 30960,
+      "endMs": 31462,
+      "timestampMs": 31211,
+      "confidence": null
+    },
+    {
+      "text": " al",
+      "startMs": 31462,
+      "endMs": 31591,
+      "timestampMs": 31526,
+      "confidence": null
+    },
+    {
+      "text": " mes",
+      "startMs": 31591,
+      "endMs": 31823,
+      "timestampMs": 31707,
+      "confidence": null
+    },
+    {
+      "text": " cambia",
+      "startMs": 31823,
+      "endMs": 32197,
+      "timestampMs": 32010,
+      "confidence": null
+    },
+    {
+      "text": " todo:",
+      "startMs": 32197,
+      "endMs": 32854,
+      "timestampMs": 32525,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Claude",
+      "startMs": 32854,
+      "endMs": 33112,
+      "timestampMs": 32983,
+      "confidence": null
+    },
+    {
+      "text": " Pro",
+      "startMs": 33112,
+      "endMs": 33292,
+      "timestampMs": 33202,
+      "confidence": null
+    },
+    {
+      "text": " desbloquea",
+      "startMs": 33292,
+      "endMs": 33898,
+      "timestampMs": 33595,
+      "confidence": null
+    },
+    {
+      "text": " Claude",
+      "startMs": 33898,
+      "endMs": 34169,
+      "timestampMs": 34033,
+      "confidence": null
+    },
+    {
+      "text": " Code,",
+      "startMs": 34169,
+      "endMs": 34748,
+      "timestampMs": 34458,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 34748,
+      "endMs": 34852,
+      "timestampMs": 34800,
+      "confidence": null
+    },
+    {
+      "text": " ChatGPT",
+      "startMs": 34852,
+      "endMs": 35586,
+      "timestampMs": 35219,
+      "confidence": null
+    },
+    {
+      "text": " Plus",
+      "startMs": 35586,
+      "endMs": 35895,
+      "timestampMs": 35740,
+      "confidence": null
+    },
+    {
+      "text": " amplía",
+      "startMs": 35895,
+      "endMs": 36308,
+      "timestampMs": 36101,
+      "confidence": null
+    },
+    {
+      "text": " tu",
+      "startMs": 36308,
+      "endMs": 36475,
+      "timestampMs": 36391,
+      "confidence": null
+    },
+    {
+      "text": " uso",
+      "startMs": 36475,
+      "endMs": 36759,
+      "timestampMs": 36617,
+      "confidence": null
+    },
+    {
+      "text": " de",
+      "startMs": 36759,
+      "endMs": 36875,
+      "timestampMs": 36817,
+      "confidence": null
+    },
+    {
+      "text": " Codex.",
+      "startMs": 36875,
+      "endMs": 37575,
+      "timestampMs": 37225,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Ojo:",
+      "startMs": 38152,
+      "endMs": 38783,
+      "timestampMs": 38468,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " en",
+      "startMs": 38783,
+      "endMs": 38976,
+      "timestampMs": 38880,
+      "confidence": null
+    },
+    {
+      "text": " Claude,",
+      "startMs": 38976,
+      "endMs": 39621,
+      "timestampMs": 39299,
+      "confidence": null
+    },
+    {
+      "text": " el",
+      "startMs": 39621,
+      "endMs": 39762,
+      "timestampMs": 39692,
+      "confidence": null
+    },
+    {
+      "text": " chat",
+      "startMs": 39762,
+      "endMs": 40059,
+      "timestampMs": 39911,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 40059,
+      "endMs": 40139,
+      "timestampMs": 40099,
+      "confidence": null
+    },
+    {
+      "text": " Claude",
+      "startMs": 40136,
+      "endMs": 40432,
+      "timestampMs": 40284,
+      "confidence": null
+    },
+    {
+      "text": " Code",
+      "startMs": 40432,
+      "endMs": 40690,
+      "timestampMs": 40561,
+      "confidence": null
+    },
+    {
+      "text": " gastan",
+      "startMs": 40690,
+      "endMs": 41128,
+      "timestampMs": 40909,
+      "confidence": null
+    },
+    {
+      "text": " del",
+      "startMs": 41128,
+      "endMs": 41296,
+      "timestampMs": 41212,
+      "confidence": null
+    },
+    {
+      "text": " mismo",
+      "startMs": 41296,
+      "endMs": 41670,
+      "timestampMs": 41483,
+      "confidence": null
+    },
+    {
+      "text": " cupo.",
+      "startMs": 41670,
+      "endMs": 42370,
+      "timestampMs": 42020,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Los",
+      "startMs": 42819,
+      "endMs": 43063,
+      "timestampMs": 42941,
+      "confidence": null
+    },
+    {
+      "text": " planes",
+      "startMs": 43063,
+      "endMs": 43424,
+      "timestampMs": 43243,
+      "confidence": null
+    },
+    {
+      "text": " de",
+      "startMs": 43424,
+      "endMs": 43527,
+      "timestampMs": 43475,
+      "confidence": null
+    },
+    {
+      "text": " cien",
+      "startMs": 43527,
+      "endMs": 43824,
+      "timestampMs": 43675,
+      "confidence": null
+    },
+    {
+      "text": " dólares",
+      "startMs": 43824,
+      "endMs": 44301,
+      "timestampMs": 44062,
+      "confidence": null
+    },
+    {
+      "text": " o",
+      "startMs": 44301,
+      "endMs": 44381,
+      "timestampMs": 44341,
+      "confidence": null
+    },
+    {
+      "text": " más",
+      "startMs": 44365,
+      "endMs": 44661,
+      "timestampMs": 44513,
+      "confidence": null
+    },
+    {
+      "text": " dan",
+      "startMs": 44661,
+      "endMs": 44842,
+      "timestampMs": 44751,
+      "confidence": null
+    },
+    {
+      "text": " mucho",
+      "startMs": 44842,
+      "endMs": 45190,
+      "timestampMs": 45016,
+      "confidence": null
+    },
+    {
+      "text": " más",
+      "startMs": 45190,
+      "endMs": 45435,
+      "timestampMs": 45312,
+      "confidence": null
+    },
+    {
+      "text": " uso.",
+      "startMs": 45435,
+      "endMs": 46685,
+      "timestampMs": 46060,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Son",
+      "startMs": 46685,
+      "endMs": 46994,
+      "timestampMs": 46839,
+      "confidence": null
+    },
+    {
+      "text": " para",
+      "startMs": 46994,
+      "endMs": 47213,
+      "timestampMs": 47103,
+      "confidence": null
+    },
+    {
+      "text": " quien",
+      "startMs": 47213,
+      "endMs": 47432,
+      "timestampMs": 47322,
+      "confidence": null
+    },
+    {
+      "text": " programa",
+      "startMs": 47432,
+      "endMs": 47909,
+      "timestampMs": 47670,
+      "confidence": null
+    },
+    {
+      "text": " con",
+      "startMs": 47909,
+      "endMs": 48102,
+      "timestampMs": 48005,
+      "confidence": null
+    },
+    {
+      "text": " agentes",
+      "startMs": 48102,
+      "endMs": 48630,
+      "timestampMs": 48366,
+      "confidence": null
+    },
+    {
+      "text": " todo",
+      "startMs": 48630,
+      "endMs": 48875,
+      "timestampMs": 48752,
+      "confidence": null
+    },
+    {
+      "text": " el",
+      "startMs": 48875,
+      "endMs": 48965,
+      "timestampMs": 48920,
+      "confidence": null
+    },
+    {
+      "text": " día.",
+      "startMs": 48965,
+      "endMs": 49568,
+      "timestampMs": 49266,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Mi",
+      "startMs": 50019,
+      "endMs": 50199,
+      "timestampMs": 50109,
+      "confidence": null
+    },
+    {
+      "text": " consejo:",
+      "startMs": 50199,
+      "endMs": 51049,
+      "timestampMs": 50624,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " si",
+      "startMs": 51049,
+      "endMs": 51191,
+      "timestampMs": 51120,
+      "confidence": null
+    },
+    {
+      "text": " estás",
+      "startMs": 51191,
+      "endMs": 51539,
+      "timestampMs": 51365,
+      "confidence": null
+    },
+    {
+      "text": " aprendiendo,",
+      "startMs": 51539,
+      "endMs": 52415,
+      "timestampMs": 51977,
+      "confidence": null
+    },
+    {
+      "text": " empieza",
+      "startMs": 52415,
+      "endMs": 52944,
+      "timestampMs": 52679,
+      "confidence": null
+    },
+    {
+      "text": " gratis.",
+      "startMs": 52944,
+      "endMs": 54464,
+      "timestampMs": 53704,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Si",
+      "startMs": 54464,
+      "endMs": 54709,
+      "timestampMs": 54586,
+      "confidence": null
+    },
+    {
+      "text": " programas",
+      "startMs": 54709,
+      "endMs": 55276,
+      "timestampMs": 54992,
+      "confidence": null
+    },
+    {
+      "text": " a",
+      "startMs": 55276,
+      "endMs": 55356,
+      "timestampMs": 55316,
+      "confidence": null
+    },
+    {
+      "text": " diario,",
+      "startMs": 55328,
+      "endMs": 56062,
+      "timestampMs": 55695,
+      "confidence": null
+    },
+    {
+      "text": " el",
+      "startMs": 56062,
+      "endMs": 56269,
+      "timestampMs": 56165,
+      "confidence": null
+    },
+    {
+      "text": " plan",
+      "startMs": 56269,
+      "endMs": 56526,
+      "timestampMs": 56397,
+      "confidence": null
+    },
+    {
+      "text": " de",
+      "startMs": 56526,
+      "endMs": 56642,
+      "timestampMs": 56584,
+      "confidence": null
+    },
+    {
+      "text": " veinte",
+      "startMs": 56642,
+      "endMs": 57003,
+      "timestampMs": 56822,
+      "confidence": null
+    },
+    {
+      "text": " vale",
+      "startMs": 57003,
+      "endMs": 57312,
+      "timestampMs": 57157,
+      "confidence": null
+    },
+    {
+      "text": " la",
+      "startMs": 57312,
+      "endMs": 57441,
+      "timestampMs": 57376,
+      "confidence": null
+    },
+    {
+      "text": " pena.",
+      "startMs": 57441,
+      "endMs": 58730,
+      "timestampMs": 58085,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Y",
+      "startMs": 58730,
+      "endMs": 58872,
+      "timestampMs": 58801,
+      "confidence": null
+    },
+    {
+      "text": " prueba",
+      "startMs": 58872,
+      "endMs": 59220,
+      "timestampMs": 59046,
+      "confidence": null
+    },
+    {
+      "text": " los",
+      "startMs": 59220,
+      "endMs": 59439,
+      "timestampMs": 59329,
+      "confidence": null
+    },
+    {
+      "text": " dos",
+      "startMs": 59439,
+      "endMs": 59671,
+      "timestampMs": 59555,
+      "confidence": null
+    },
+    {
+      "text": " con",
+      "startMs": 59671,
+      "endMs": 59864,
+      "timestampMs": 59767,
+      "confidence": null
+    },
+    {
+      "text": " tu",
+      "startMs": 59864,
+      "endMs": 59993,
+      "timestampMs": 59928,
+      "confidence": null
+    },
+    {
+      "text": " propio",
+      "startMs": 59993,
+      "endMs": 60379,
+      "timestampMs": 60186,
+      "confidence": null
+    },
+    {
+      "text": " proyecto.",
+      "startMs": 60379,
+      "endMs": 61079,
+      "timestampMs": 60729,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ¿Tú",
+      "startMs": 61652,
+      "endMs": 61793,
+      "timestampMs": 61723,
+      "confidence": null
+    },
+    {
+      "text": " cuál",
+      "startMs": 61793,
+      "endMs": 62038,
+      "timestampMs": 61916,
+      "confidence": null
+    },
+    {
+      "text": " usas?",
+      "startMs": 62038,
+      "endMs": 63456,
+      "timestampMs": 62747,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Te",
+      "startMs": 63456,
+      "endMs": 63585,
+      "timestampMs": 63521,
+      "confidence": null
+    },
+    {
+      "text": " leo",
+      "startMs": 63585,
+      "endMs": 63842,
+      "timestampMs": 63714,
+      "confidence": null
+    },
+    {
+      "text": " en",
+      "startMs": 63842,
+      "endMs": 63932,
+      "timestampMs": 63887,
+      "confidence": null
+    },
+    {
+      "text": " comentarios.",
+      "startMs": 63932,
+      "endMs": 64632,
+      "timestampMs": 64282,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  "music": null,
+  "sfx": [
+    {
+      "src": "sfx/impact-v1.wav",
+      "frame": 0,
+      "volume": 0.45
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 2,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 13,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 151,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 180,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 206,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 305,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 336,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 366,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 405,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 447,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 500,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 535,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 595,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 676,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 777,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 812,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 845,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 907,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 920,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 999,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1077,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 1139,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1193,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1213,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1221,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 1279,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1306,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1331,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1443,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 1495,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1546,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1588,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1660,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1699,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1766,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/whoosh-v1.wav",
+      "frame": 1844,
+      "volume": 0.22
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1861,
+      "volume": 0.3
+    },
+    {
+      "src": "sfx/pop-v1.wav",
+      "frame": 1918,
+      "volume": 0.3
+    }
+  ],
+  "stamp": "Datos oficiales · 15 nov 2026"
+}

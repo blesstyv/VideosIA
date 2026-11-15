@@ -1,0 +1,200 @@
+{
+  "title": "¿Qué es una variable en programación? Explicado con Minecraft",
+  "pronunciation": {
+    "Python": "Páiton",
+    "print": "prínt",
+    "Minecraft": "Máinkraft"
+  },
+  "scenes": [
+    {
+      "id": "gancho",
+      "section": "intro",
+      "narration": "Cuando juntas diamantes en Minecraft, el juego tiene que recordar cuántos llevas. Para eso, los programas usan variables.",
+      "background": { "kind": "gameplay", "tags": ["parkour", "exploracion"] },
+      "transitionIn": "none",
+      "visual": {
+        "type": "title",
+        "kicker": "Minecraft + código",
+        "title": "¿Qué es una *variable*?",
+        "subtitle": "Explicado con cofres y diamantes"
+      }
+    },
+    {
+      "id": "concepto",
+      "section": "desarrollo",
+      "narration": "Imagina un cofre con una etiqueta que dice diamantes. Adentro guardas un valor: cinco. Eso es una variable: un nombre que guarda un dato para usarlo después.",
+      "background": { "kind": "blocks" },
+      "transitionIn": "slide",
+      "visual": {
+        "type": "containers",
+        "heading": "Una variable es…",
+        "containers": [{ "label": "diamantes", "value": "5", "showGems": true }],
+        "footnote": "un nombre + un valor guardado",
+        "footnoteAtWord": "nombre"
+      }
+    },
+    {
+      "id": "asignacion",
+      "section": "desarrollo",
+      "narration": "En Python se escribe así: diamantes igual cinco. Ojo: el signo igual no compara, asigna. Guarda el valor en ese nombre.",
+      "background": { "kind": "grid" },
+      "transitionIn": "fade",
+      "visual": {
+        "type": "code",
+        "language": "python",
+        "filename": "inventario.py",
+        "code": "diamantes = 5",
+        "highlight": [1],
+        "highlightAtWord": "igual",
+        "note": "=  asigna, no compara",
+        "noteAtWord": "asigna"
+      }
+    },
+    {
+      "id": "actualizar",
+      "section": "ejemplo",
+      "narration": "Si minas tres más, escribes: diamantes igual diamantes más tres. Python calcula primero la derecha y guarda el resultado: ocho.",
+      "background": { "kind": "blocks" },
+      "transitionIn": "slide",
+      "visual": {
+        "type": "containers",
+        "heading": "Actualizar el valor",
+        "containers": [{ "label": "diamantes", "value": "5", "showGems": true }],
+        "updates": [{ "label": "diamantes", "value": "8", "delta": "+3", "atWord": "ocho" }],
+        "footnote": "diamantes = diamantes + 3",
+        "footnoteAtWord": "escribes"
+      }
+    },
+    {
+      "id": "programa",
+      "section": "ejemplo",
+      "narration": "Con print muestras el valor. Al ejecutarlo, la consola imprime ocho.",
+      "background": { "kind": "grid" },
+      "transitionIn": "fade",
+      "visual": {
+        "type": "code",
+        "language": "python",
+        "filename": "inventario.py",
+        "code": "diamantes = 5\ndiamantes = diamantes + 3\nprint(diamantes)",
+        "highlight": [3],
+        "highlightAtWord": "print",
+        "output": "8",
+        "outputAtWord": "ocho",
+        "verify": true
+      }
+    },
+    {
+      "id": "reglas",
+      "section": "desarrollo",
+      "narration": "Tres reglas: usa nombres que describan el dato, no empieces con un número, y ojo con las mayúsculas: Diamantes y diamantes son variables distintas.",
+      "background": { "kind": "grid" },
+      "transitionIn": "wipe",
+      "visual": {
+        "type": "bullets",
+        "heading": "3 reglas rápidas",
+        "items": [
+          { "text": "Nombres que describan el dato", "atWord": "describan" },
+          { "text": "No empiezan con un número", "atWord": "número" },
+          { "text": "Diamantes ≠ diamantes", "atWord": "mayúsculas" }
+        ]
+      }
+    },
+    {
+      "id": "cierre",
+      "section": "cierre",
+      "narration": "Dato técnico: en Python, la variable es una etiqueta que apunta al valor, no la caja. Pero el cofre te sirve para empezar. ¿Qué guardarías tú en una variable?",
+      "background": { "kind": "blocks" },
+      "transitionIn": "fade",
+      "visual": {
+        "type": "outro",
+        "title": "Variable = nombre + valor",
+        "points": ["El signo = asigna un valor", "Puedes actualizarla", "En Python es una etiqueta"],
+        "cta": "Comenta: ¿qué guardarías?"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "text": "En Python, una asignación enlaza (o re-enlaza) un nombre con un valor; la variable es un nombre que hace referencia a ese valor.",
+      "status": "verified",
+      "sources": ["py-assign"],
+      "sceneIds": ["concepto", "cierre"]
+    },
+    {
+      "text": "El signo = se usa para asignar un valor a una variable; la comparación de igualdad usa ==.",
+      "status": "verified",
+      "sources": ["py-tutorial-numbers", "py-tutorial-first-steps"],
+      "sceneIds": ["asignacion"]
+    },
+    {
+      "text": "En una asignación, la expresión de la derecha se evalúa antes de enlazar el resultado al nombre (diamantes = diamantes + 3 calcula 5 + 3 y guarda 8).",
+      "status": "verified",
+      "sources": ["py-assign", "py-tutorial-first-steps"],
+      "sceneIds": ["actualizar"]
+    },
+    {
+      "text": "El programa mostrado imprime 8 (verificado ejecutándolo con Python 3.13 en el pipeline).",
+      "status": "verified",
+      "sources": ["py-tutorial-numbers"],
+      "sceneIds": ["programa"]
+    },
+    {
+      "text": "Un identificador no puede empezar con un dígito.",
+      "status": "verified",
+      "sources": ["py-identifiers"],
+      "sceneIds": ["reglas"]
+    },
+    {
+      "text": "Los identificadores distinguen mayúsculas de minúsculas (Diamantes y diamantes son nombres distintos).",
+      "status": "verified",
+      "sources": ["py-identifiers"],
+      "sceneIds": ["reglas"]
+    },
+    {
+      "text": "Usar nombres descriptivos es una recomendación de estilo, no una regla del lenguaje.",
+      "status": "illustrative",
+      "sceneIds": ["reglas"]
+    },
+    {
+      "text": "El cofre con etiqueta es una analogía didáctica; en Python la variable es una etiqueta que apunta al valor, como se aclara en el cierre.",
+      "status": "illustrative",
+      "sceneIds": ["concepto", "cierre"]
+    },
+    {
+      "text": "Que el juego 'recuerde' tus diamantes es un ejemplo general de estado de un programa; no describe el código interno de Minecraft.",
+      "status": "illustrative",
+      "sceneIds": ["gancho"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "py-assign",
+      "title": "The Python Language Reference — Assignment statements",
+      "url": "https://docs.python.org/3/reference/simple_stmts.html#assignment-statements",
+      "accessed": "2026-11-14"
+    },
+    {
+      "id": "py-identifiers",
+      "title": "The Python Language Reference — Names (identifiers and keywords)",
+      "url": "https://docs.python.org/3/reference/lexical_analysis.html#names-identifiers-and-keywords",
+      "accessed": "2026-11-14"
+    },
+    {
+      "id": "py-tutorial-numbers",
+      "title": "The Python Tutorial — An Informal Introduction to Python (Numbers)",
+      "url": "https://docs.python.org/3/tutorial/introduction.html#numbers",
+      "accessed": "2026-11-14"
+    },
+    {
+      "id": "py-tutorial-first-steps",
+      "title": "The Python Tutorial — First Steps Towards Programming",
+      "url": "https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming",
+      "accessed": "2026-11-14"
+    }
+  ],
+  "publish": {
+    "title": "¿Qué es una variable en programación? Explicado con Minecraft",
+    "description": "Una variable es un nombre que guarda un valor para usarlo después. Te lo explico con cofres y diamantes al estilo Minecraft y un ejemplo real en Python que imprime 8.\n\nDato técnico: en Python la variable es una etiqueta que apunta al valor. Fuente: documentación oficial de Python (docs.python.org).\n\nLas escenas de bloques son animaciones ilustrativas, no gameplay real.",
+    "hashtags": ["#programacion", "#python", "#aprendeaprogramar", "#minecraft", "#variables", "#tecnologia"]
+  }
+}

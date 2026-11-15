@@ -1,0 +1,14 @@
+{
+  "slug": "variable-minecraft",
+  "topic": "¿Qué es una variable en programación? Explicado con Minecraft",
+  "category": "programacion",
+  "platform": "todas",
+  "style": "tecnológico, dinámico, analogía con cofres y diamantes de estilo bloques",
+  "targetSeconds": { "min": 30, "max": 90 },
+  "fps": 30,
+  "tts": {
+    "provider": "sapi",
+    "voice": "Microsoft Sabina Desktop",
+    "rate": 1
+  }
+}

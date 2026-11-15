@@ -1,0 +1,1077 @@
+[
+  {
+    "text": " Cuando",
+    "startMs": 80,
+    "endMs": 315,
+    "timestampMs": 198,
+    "confidence": null
+  },
+  {
+    "text": " juntas",
+    "startMs": 315,
+    "endMs": 710,
+    "timestampMs": 513,
+    "confidence": null
+  },
+  {
+    "text": " diamantes",
+    "startMs": 710,
+    "endMs": 1184,
+    "timestampMs": 947,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 1184,
+    "endMs": 1291,
+    "timestampMs": 1238,
+    "confidence": null
+  },
+  {
+    "text": " Minecraft,",
+    "startMs": 1291,
+    "endMs": 2190,
+    "timestampMs": 1741,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 2190,
+    "endMs": 2307,
+    "timestampMs": 2249,
+    "confidence": null
+  },
+  {
+    "text": " juego",
+    "startMs": 2307,
+    "endMs": 2610,
+    "timestampMs": 2459,
+    "confidence": null
+  },
+  {
+    "text": " tiene",
+    "startMs": 2610,
+    "endMs": 2867,
+    "timestampMs": 2739,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 2867,
+    "endMs": 3000,
+    "timestampMs": 2934,
+    "confidence": null
+  },
+  {
+    "text": " recordar",
+    "startMs": 3000,
+    "endMs": 3440,
+    "timestampMs": 3220,
+    "confidence": null
+  },
+  {
+    "text": " cuántos",
+    "startMs": 3440,
+    "endMs": 3850,
+    "timestampMs": 3645,
+    "confidence": null
+  },
+  {
+    "text": " llevas.",
+    "startMs": 3850,
+    "endMs": 5027,
+    "timestampMs": 4439,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Para",
+    "startMs": 5027,
+    "endMs": 5244,
+    "timestampMs": 5136,
+    "confidence": null
+  },
+  {
+    "text": " eso,",
+    "startMs": 5244,
+    "endMs": 5846,
+    "timestampMs": 5545,
+    "confidence": null
+  },
+  {
+    "text": " los",
+    "startMs": 5846,
+    "endMs": 6041,
+    "timestampMs": 5944,
+    "confidence": null
+  },
+  {
+    "text": " programas",
+    "startMs": 6041,
+    "endMs": 6537,
+    "timestampMs": 6289,
+    "confidence": null
+  },
+  {
+    "text": " usan",
+    "startMs": 6537,
+    "endMs": 6809,
+    "timestampMs": 6673,
+    "confidence": null
+  },
+  {
+    "text": " variables.",
+    "startMs": 6809,
+    "endMs": 7509,
+    "timestampMs": 7159,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Imagina",
+    "startMs": 7946,
+    "endMs": 8417,
+    "timestampMs": 8181,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 8417,
+    "endMs": 8564,
+    "timestampMs": 8490,
+    "confidence": null
+  },
+  {
+    "text": " cofre",
+    "startMs": 8564,
+    "endMs": 8875,
+    "timestampMs": 8719,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 8875,
+    "endMs": 9059,
+    "timestampMs": 8967,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 9059,
+    "endMs": 9217,
+    "timestampMs": 9138,
+    "confidence": null
+  },
+  {
+    "text": " etiqueta",
+    "startMs": 9217,
+    "endMs": 9677,
+    "timestampMs": 9447,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 9677,
+    "endMs": 9808,
+    "timestampMs": 9742,
+    "confidence": null
+  },
+  {
+    "text": " dice",
+    "startMs": 9808,
+    "endMs": 10047,
+    "timestampMs": 9927,
+    "confidence": null
+  },
+  {
+    "text": " diamantes.",
+    "startMs": 10047,
+    "endMs": 11452,
+    "timestampMs": 10749,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Adentro",
+    "startMs": 11452,
+    "endMs": 11807,
+    "timestampMs": 11629,
+    "confidence": null
+  },
+  {
+    "text": " guardas",
+    "startMs": 11807,
+    "endMs": 12190,
+    "timestampMs": 11998,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 12190,
+    "endMs": 12297,
+    "timestampMs": 12243,
+    "confidence": null
+  },
+  {
+    "text": " valor:",
+    "startMs": 12297,
+    "endMs": 12901,
+    "timestampMs": 12599,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " cinco.",
+    "startMs": 12901,
+    "endMs": 14116,
+    "timestampMs": 13508,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Eso",
+    "startMs": 14116,
+    "endMs": 14354,
+    "timestampMs": 14235,
+    "confidence": null
+  },
+  {
+    "text": " es",
+    "startMs": 14354,
+    "endMs": 14515,
+    "timestampMs": 14434,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 14515,
+    "endMs": 14694,
+    "timestampMs": 14604,
+    "confidence": null
+  },
+  {
+    "text": " variable:",
+    "startMs": 14694,
+    "endMs": 15433,
+    "timestampMs": 15063,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " un",
+    "startMs": 15433,
+    "endMs": 15575,
+    "timestampMs": 15504,
+    "confidence": null
+  },
+  {
+    "text": " nombre",
+    "startMs": 15575,
+    "endMs": 15844,
+    "timestampMs": 15709,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 15844,
+    "endMs": 15981,
+    "timestampMs": 15912,
+    "confidence": null
+  },
+  {
+    "text": " guarda",
+    "startMs": 15981,
+    "endMs": 16284,
+    "timestampMs": 16132,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 16284,
+    "endMs": 16424,
+    "timestampMs": 16354,
+    "confidence": null
+  },
+  {
+    "text": " dato",
+    "startMs": 16424,
+    "endMs": 16664,
+    "timestampMs": 16544,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 16664,
+    "endMs": 16857,
+    "timestampMs": 16760,
+    "confidence": null
+  },
+  {
+    "text": " usarlo",
+    "startMs": 16857,
+    "endMs": 17232,
+    "timestampMs": 17044,
+    "confidence": null
+  },
+  {
+    "text": " después.",
+    "startMs": 17232,
+    "endMs": 17932,
+    "timestampMs": 17582,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " En",
+    "startMs": 18314,
+    "endMs": 18431,
+    "timestampMs": 18373,
+    "confidence": null
+  },
+  {
+    "text": " Python",
+    "startMs": 18431,
+    "endMs": 18770,
+    "timestampMs": 18601,
+    "confidence": null
+  },
+  {
+    "text": " se",
+    "startMs": 18770,
+    "endMs": 18892,
+    "timestampMs": 18831,
+    "confidence": null
+  },
+  {
+    "text": " escribe",
+    "startMs": 18892,
+    "endMs": 19268,
+    "timestampMs": 19080,
+    "confidence": null
+  },
+  {
+    "text": " así:",
+    "startMs": 19268,
+    "endMs": 19856,
+    "timestampMs": 19562,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " diamantes",
+    "startMs": 19856,
+    "endMs": 20409,
+    "timestampMs": 20133,
+    "confidence": null
+  },
+  {
+    "text": " igual",
+    "startMs": 20409,
+    "endMs": 20680,
+    "timestampMs": 20545,
+    "confidence": null
+  },
+  {
+    "text": " cinco.",
+    "startMs": 20680,
+    "endMs": 21875,
+    "timestampMs": 21278,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Ojo:",
+    "startMs": 21875,
+    "endMs": 22461,
+    "timestampMs": 22168,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " el",
+    "startMs": 22461,
+    "endMs": 22570,
+    "timestampMs": 22516,
+    "confidence": null
+  },
+  {
+    "text": " signo",
+    "startMs": 22570,
+    "endMs": 22895,
+    "timestampMs": 22733,
+    "confidence": null
+  },
+  {
+    "text": " igual",
+    "startMs": 22895,
+    "endMs": 23163,
+    "timestampMs": 23029,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 23163,
+    "endMs": 23303,
+    "timestampMs": 23233,
+    "confidence": null
+  },
+  {
+    "text": " compara,",
+    "startMs": 23303,
+    "endMs": 24054,
+    "timestampMs": 23679,
+    "confidence": null
+  },
+  {
+    "text": " asigna.",
+    "startMs": 24054,
+    "endMs": 25323,
+    "timestampMs": 24689,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Guarda",
+    "startMs": 25323,
+    "endMs": 25621,
+    "timestampMs": 25472,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 25621,
+    "endMs": 25702,
+    "timestampMs": 25662,
+    "confidence": null
+  },
+  {
+    "text": " valor",
+    "startMs": 25702,
+    "endMs": 25954,
+    "timestampMs": 25828,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 25954,
+    "endMs": 26067,
+    "timestampMs": 26011,
+    "confidence": null
+  },
+  {
+    "text": " ese",
+    "startMs": 26067,
+    "endMs": 26262,
+    "timestampMs": 26165,
+    "confidence": null
+  },
+  {
+    "text": " nombre.",
+    "startMs": 26262,
+    "endMs": 26962,
+    "timestampMs": 26612,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Si",
+    "startMs": 27249,
+    "endMs": 27396,
+    "timestampMs": 27322,
+    "confidence": null
+  },
+  {
+    "text": " minas",
+    "startMs": 27396,
+    "endMs": 27723,
+    "timestampMs": 27559,
+    "confidence": null
+  },
+  {
+    "text": " tres",
+    "startMs": 27723,
+    "endMs": 27990,
+    "timestampMs": 27856,
+    "confidence": null
+  },
+  {
+    "text": " más,",
+    "startMs": 27990,
+    "endMs": 28557,
+    "timestampMs": 28273,
+    "confidence": null
+  },
+  {
+    "text": " escribes:",
+    "startMs": 28557,
+    "endMs": 29405,
+    "timestampMs": 28981,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " diamantes",
+    "startMs": 29405,
+    "endMs": 29960,
+    "timestampMs": 29682,
+    "confidence": null
+  },
+  {
+    "text": " igual",
+    "startMs": 29960,
+    "endMs": 30226,
+    "timestampMs": 30093,
+    "confidence": null
+  },
+  {
+    "text": " diamantes",
+    "startMs": 30226,
+    "endMs": 30717,
+    "timestampMs": 30471,
+    "confidence": null
+  },
+  {
+    "text": " más",
+    "startMs": 30717,
+    "endMs": 30966,
+    "timestampMs": 30841,
+    "confidence": null
+  },
+  {
+    "text": " tres.",
+    "startMs": 30966,
+    "endMs": 32085,
+    "timestampMs": 31525,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Python",
+    "startMs": 32085,
+    "endMs": 32400,
+    "timestampMs": 32242,
+    "confidence": null
+  },
+  {
+    "text": " calcula",
+    "startMs": 32400,
+    "endMs": 32823,
+    "timestampMs": 32611,
+    "confidence": null
+  },
+  {
+    "text": " primero",
+    "startMs": 32823,
+    "endMs": 33179,
+    "timestampMs": 33001,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 33179,
+    "endMs": 33292,
+    "timestampMs": 33235,
+    "confidence": null
+  },
+  {
+    "text": " derecha",
+    "startMs": 33292,
+    "endMs": 33668,
+    "timestampMs": 33480,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 33668,
+    "endMs": 33765,
+    "timestampMs": 33716,
+    "confidence": null
+  },
+  {
+    "text": " guarda",
+    "startMs": 33765,
+    "endMs": 34069,
+    "timestampMs": 33917,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 34069,
+    "endMs": 34155,
+    "timestampMs": 34112,
+    "confidence": null
+  },
+  {
+    "text": " resultado:",
+    "startMs": 34155,
+    "endMs": 35043,
+    "timestampMs": 34599,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " ocho.",
+    "startMs": 35043,
+    "endMs": 35694,
+    "timestampMs": 35368,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Con",
+    "startMs": 35946,
+    "endMs": 36107,
+    "timestampMs": 36026,
+    "confidence": null
+  },
+  {
+    "text": " print",
+    "startMs": 36107,
+    "endMs": 36407,
+    "timestampMs": 36257,
+    "confidence": null
+  },
+  {
+    "text": " muestras",
+    "startMs": 36407,
+    "endMs": 36842,
+    "timestampMs": 36624,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 36842,
+    "endMs": 36937,
+    "timestampMs": 36889,
+    "confidence": null
+  },
+  {
+    "text": " valor.",
+    "startMs": 36937,
+    "endMs": 38055,
+    "timestampMs": 37496,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Al",
+    "startMs": 38055,
+    "endMs": 38177,
+    "timestampMs": 38116,
+    "confidence": null
+  },
+  {
+    "text": " ejecutarlo,",
+    "startMs": 38177,
+    "endMs": 39140,
+    "timestampMs": 38658,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 39140,
+    "endMs": 39272,
+    "timestampMs": 39206,
+    "confidence": null
+  },
+  {
+    "text": " consola",
+    "startMs": 39272,
+    "endMs": 39724,
+    "timestampMs": 39498,
+    "confidence": null
+  },
+  {
+    "text": " imprime",
+    "startMs": 39724,
+    "endMs": 40097,
+    "timestampMs": 39910,
+    "confidence": null
+  },
+  {
+    "text": " ocho.",
+    "startMs": 40097,
+    "endMs": 40737,
+    "timestampMs": 40417,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Tres",
+    "startMs": 41013,
+    "endMs": 41215,
+    "timestampMs": 41114,
+    "confidence": null
+  },
+  {
+    "text": " reglas:",
+    "startMs": 41215,
+    "endMs": 41913,
+    "timestampMs": 41564,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " usa",
+    "startMs": 41913,
+    "endMs": 42143,
+    "timestampMs": 42028,
+    "confidence": null
+  },
+  {
+    "text": " nombres",
+    "startMs": 42143,
+    "endMs": 42505,
+    "timestampMs": 42324,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 42505,
+    "endMs": 42620,
+    "timestampMs": 42563,
+    "confidence": null
+  },
+  {
+    "text": " describan",
+    "startMs": 42620,
+    "endMs": 43113,
+    "timestampMs": 42867,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 43113,
+    "endMs": 43212,
+    "timestampMs": 43163,
+    "confidence": null
+  },
+  {
+    "text": " dato,",
+    "startMs": 43212,
+    "endMs": 43836,
+    "timestampMs": 43524,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 43836,
+    "endMs": 43993,
+    "timestampMs": 43915,
+    "confidence": null
+  },
+  {
+    "text": " empieces",
+    "startMs": 43993,
+    "endMs": 44443,
+    "timestampMs": 44218,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 44443,
+    "endMs": 44616,
+    "timestampMs": 44530,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 44616,
+    "endMs": 44734,
+    "timestampMs": 44675,
+    "confidence": null
+  },
+  {
+    "text": " número,",
+    "startMs": 44734,
+    "endMs": 45389,
+    "timestampMs": 45062,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 45389,
+    "endMs": 45493,
+    "timestampMs": 45441,
+    "confidence": null
+  },
+  {
+    "text": " ojo",
+    "startMs": 45493,
+    "endMs": 45721,
+    "timestampMs": 45607,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 45721,
+    "endMs": 45890,
+    "timestampMs": 45806,
+    "confidence": null
+  },
+  {
+    "text": " las",
+    "startMs": 45890,
+    "endMs": 46040,
+    "timestampMs": 45965,
+    "confidence": null
+  },
+  {
+    "text": " mayúsculas:",
+    "startMs": 46040,
+    "endMs": 47013,
+    "timestampMs": 46527,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Diamantes",
+    "startMs": 47013,
+    "endMs": 47576,
+    "timestampMs": 47295,
+    "confidence": null
+  },
+  {
+    "text": " y",
+    "startMs": 47576,
+    "endMs": 47656,
+    "timestampMs": 47616,
+    "confidence": null
+  },
+  {
+    "text": " diamantes",
+    "startMs": 47648,
+    "endMs": 48137,
+    "timestampMs": 47893,
+    "confidence": null
+  },
+  {
+    "text": " son",
+    "startMs": 48137,
+    "endMs": 48303,
+    "timestampMs": 48220,
+    "confidence": null
+  },
+  {
+    "text": " variables",
+    "startMs": 48303,
+    "endMs": 48726,
+    "timestampMs": 48515,
+    "confidence": null
+  },
+  {
+    "text": " distintas.",
+    "startMs": 48726,
+    "endMs": 49426,
+    "timestampMs": 49076,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Dato",
+    "startMs": 49912,
+    "endMs": 50163,
+    "timestampMs": 50038,
+    "confidence": null
+  },
+  {
+    "text": " técnico:",
+    "startMs": 50163,
+    "endMs": 50979,
+    "timestampMs": 50571,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " en",
+    "startMs": 50979,
+    "endMs": 51111,
+    "timestampMs": 51045,
+    "confidence": null
+  },
+  {
+    "text": " Python,",
+    "startMs": 51111,
+    "endMs": 51813,
+    "timestampMs": 51462,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 51813,
+    "endMs": 51943,
+    "timestampMs": 51878,
+    "confidence": null
+  },
+  {
+    "text": " variable",
+    "startMs": 51943,
+    "endMs": 52343,
+    "timestampMs": 52143,
+    "confidence": null
+  },
+  {
+    "text": " es",
+    "startMs": 52343,
+    "endMs": 52514,
+    "timestampMs": 52429,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 52514,
+    "endMs": 52672,
+    "timestampMs": 52593,
+    "confidence": null
+  },
+  {
+    "text": " etiqueta",
+    "startMs": 52672,
+    "endMs": 53118,
+    "timestampMs": 52895,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 53118,
+    "endMs": 53241,
+    "timestampMs": 53180,
+    "confidence": null
+  },
+  {
+    "text": " apunta",
+    "startMs": 53241,
+    "endMs": 53610,
+    "timestampMs": 53426,
+    "confidence": null
+  },
+  {
+    "text": " al",
+    "startMs": 53610,
+    "endMs": 53700,
+    "timestampMs": 53655,
+    "confidence": null
+  },
+  {
+    "text": " valor,",
+    "startMs": 53700,
+    "endMs": 54313,
+    "timestampMs": 54007,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 54313,
+    "endMs": 54476,
+    "timestampMs": 54395,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 54476,
+    "endMs": 54590,
+    "timestampMs": 54533,
+    "confidence": null
+  },
+  {
+    "text": " caja.",
+    "startMs": 54590,
+    "endMs": 55718,
+    "timestampMs": 55154,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Pero",
+    "startMs": 55718,
+    "endMs": 55906,
+    "timestampMs": 55812,
+    "confidence": null
+  },
+  {
+    "text": " el",
+    "startMs": 55906,
+    "endMs": 55998,
+    "timestampMs": 55952,
+    "confidence": null
+  },
+  {
+    "text": " cofre",
+    "startMs": 55998,
+    "endMs": 56312,
+    "timestampMs": 56155,
+    "confidence": null
+  },
+  {
+    "text": " te",
+    "startMs": 56312,
+    "endMs": 56443,
+    "timestampMs": 56378,
+    "confidence": null
+  },
+  {
+    "text": " sirve",
+    "startMs": 56443,
+    "endMs": 56756,
+    "timestampMs": 56600,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 56756,
+    "endMs": 56954,
+    "timestampMs": 56855,
+    "confidence": null
+  },
+  {
+    "text": " empezar.",
+    "startMs": 56954,
+    "endMs": 58215,
+    "timestampMs": 57585,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " ¿Qué",
+    "startMs": 58215,
+    "endMs": 58317,
+    "timestampMs": 58266,
+    "confidence": null
+  },
+  {
+    "text": " guardarías",
+    "startMs": 58317,
+    "endMs": 58845,
+    "timestampMs": 58581,
+    "confidence": null
+  },
+  {
+    "text": " tú",
+    "startMs": 58845,
+    "endMs": 58975,
+    "timestampMs": 58910,
+    "confidence": null
+  },
+  {
+    "text": " en",
+    "startMs": 58975,
+    "endMs": 59085,
+    "timestampMs": 59030,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 59085,
+    "endMs": 59261,
+    "timestampMs": 59173,
+    "confidence": null
+  },
+  {
+    "text": " variable?",
+    "startMs": 59261,
+    "endMs": 59961,
+    "timestampMs": 59611,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

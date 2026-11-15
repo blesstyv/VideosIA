@@ -1,0 +1,151 @@
+1
+00:00:00,080 --> 00:00:01,291
+Cuando juntas diamantes en
+
+2
+00:00:01,291 --> 00:00:03,000
+Minecraft, el juego tiene que
+
+3
+00:00:03,000 --> 00:00:05,027
+recordar cuántos llevas.
+
+4
+00:00:05,027 --> 00:00:06,809
+Para eso, los programas usan
+
+5
+00:00:06,809 --> 00:00:07,509
+variables.
+
+6
+00:00:07,946 --> 00:00:09,217
+Imagina un cofre con una
+
+7
+00:00:09,217 --> 00:00:11,452
+etiqueta que dice diamantes.
+
+8
+00:00:11,452 --> 00:00:14,116
+Adentro guardas un valor: cinco.
+
+9
+00:00:14,116 --> 00:00:15,844
+Eso es una variable: un nombre
+
+10
+00:00:15,844 --> 00:00:17,232
+que guarda un dato para usarlo
+
+11
+00:00:17,232 --> 00:00:17,932
+después.
+
+12
+00:00:18,314 --> 00:00:19,856
+En Python se escribe así:
+
+13
+00:00:19,856 --> 00:00:21,875
+diamantes igual cinco.
+
+14
+00:00:21,875 --> 00:00:24,054
+Ojo: el signo igual no compara,
+
+15
+00:00:24,054 --> 00:00:25,323
+asigna.
+
+16
+00:00:25,323 --> 00:00:26,962
+Guarda el valor en ese nombre.
+
+17
+00:00:27,249 --> 00:00:29,405
+Si minas tres más, escribes:
+
+18
+00:00:29,405 --> 00:00:30,966
+diamantes igual diamantes más
+
+19
+00:00:30,966 --> 00:00:32,085
+tres.
+
+20
+00:00:32,085 --> 00:00:33,292
+Python calcula primero la
+
+21
+00:00:33,292 --> 00:00:35,043
+derecha y guarda el resultado:
+
+22
+00:00:35,043 --> 00:00:35,694
+ocho.
+
+23
+00:00:35,946 --> 00:00:38,055
+Con print muestras el valor.
+
+24
+00:00:38,055 --> 00:00:39,724
+Al ejecutarlo, la consola
+
+25
+00:00:39,724 --> 00:00:40,737
+imprime ocho.
+
+26
+00:00:41,013 --> 00:00:42,620
+Tres reglas: usa nombres que
+
+27
+00:00:42,620 --> 00:00:44,443
+describan el dato, no empieces
+
+28
+00:00:44,443 --> 00:00:46,040
+con un número, y ojo con las
+
+29
+00:00:46,040 --> 00:00:47,656
+mayúsculas: Diamantes y
+
+30
+00:00:47,648 --> 00:00:48,726
+diamantes son variables
+
+31
+00:00:48,726 --> 00:00:49,426
+distintas.
+
+32
+00:00:49,912 --> 00:00:51,943
+Dato técnico: en Python, la
+
+33
+00:00:51,943 --> 00:00:53,241
+variable es una etiqueta que
+
+34
+00:00:53,241 --> 00:00:55,718
+apunta al valor, no la caja.
+
+35
+00:00:55,718 --> 00:00:56,954
+Pero el cofre te sirve para
+
+36
+00:00:56,954 --> 00:00:58,215
+empezar.
+
+37
+00:00:58,215 --> 00:00:59,261
+¿Qué guardarías tú en una
+
+38
+00:00:59,261 --> 00:00:59,961
+variable?

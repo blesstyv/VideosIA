@@ -1,0 +1,24 @@
+{
+  "slug": "claude-vs-chatgpt-programacion",
+  "topic": "Claude vs ChatGPT para programación: ¿cuál conviene y vale la pena pagar un plan?",
+  "category": "ia",
+  "platform": "todas",
+  "style": "creador tech dinámico: texto cinético, comparativas cara a cara, cifras grandes, efectos de sonido",
+  "targetSeconds": {
+    "min": 45,
+    "max": 90
+  },
+  "fps": 30,
+  "sfx": true,
+  "tts": {
+    "provider": "azure",
+    "voice": "Microsoft Sabina Desktop",
+    "rate": 0,
+    "azure": {
+      "voice": "es-MX-JorgeNeural",
+      "rate": "-3%",
+      "pitch": "+0%",
+      "freeTier": true
+    }
+  }
+}

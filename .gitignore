@@ -1,0 +1,22 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+# Tech Content Studio
+# Audio y timelines regenerables
+public/generated/
+# Exportaciones: se versiona el MP4 final y los .md/.json/.srt
+# Solo se versiona el MP4 final de cada video
+exports/**/previews/
+exports/_voice-tests/
+exports/**/muestra-*.mp4
+exports/**/review/
+# Biblioteca multimedia (binarios grandes; se versiona solo manifest.json)
+public/library/**/*.mp4
+public/library/**/*.mov
+public/library/**/*.mp3
+public/library/**/*.wav

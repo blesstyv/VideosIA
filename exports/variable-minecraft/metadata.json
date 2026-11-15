@@ -1,0 +1,182 @@
+{
+  "slug": "variable-minecraft",
+  "topic": "¿Qué es una variable en programación? Explicado con Minecraft",
+  "category": "programacion",
+  "platform": "todas",
+  "fps": 30,
+  "resolution": "1080x1920",
+  "durationSec": 61.03333333333333,
+  "publish": {
+    "title": "¿Qué es una variable en programación? Explicado con Minecraft",
+    "description": "Una variable es un nombre que guarda un valor para usarlo después. Te lo explico con cofres y diamantes al estilo Minecraft y un ejemplo real en Python que imprime 8.\n\nDato técnico: en Python la variable es una etiqueta que apunta al valor. Fuente: documentación oficial de Python (docs.python.org).\n\nLas escenas de bloques son animaciones ilustrativas, no gameplay real.",
+    "hashtags": [
+      "#programacion",
+      "#python",
+      "#aprendeaprogramar",
+      "#minecraft",
+      "#variables",
+      "#tecnologia"
+    ]
+  },
+  "tts": {
+    "provider": "sapi",
+    "voice": "Microsoft Sabina Desktop"
+  },
+  "music": null,
+  "scenes": [
+    {
+      "id": "gancho",
+      "start": 0,
+      "duration": 7.866666666666666,
+      "visual": "title",
+      "background": "gameplay-illustration"
+    },
+    {
+      "id": "concepto",
+      "start": 7.866666666666666,
+      "duration": 10.366666666666667,
+      "visual": "containers",
+      "background": "blocks"
+    },
+    {
+      "id": "asignacion",
+      "start": 18.233333333333334,
+      "duration": 8.933333333333334,
+      "visual": "code",
+      "background": "grid"
+    },
+    {
+      "id": "actualizar",
+      "start": 27.166666666666668,
+      "duration": 8.7,
+      "visual": "containers",
+      "background": "blocks"
+    },
+    {
+      "id": "programa",
+      "start": 35.86666666666667,
+      "duration": 5.066666666666666,
+      "visual": "code",
+      "background": "grid"
+    },
+    {
+      "id": "reglas",
+      "start": 40.93333333333333,
+      "duration": 8.9,
+      "visual": "bullets",
+      "background": "grid"
+    },
+    {
+      "id": "cierre",
+      "start": 49.833333333333336,
+      "duration": 11.2,
+      "visual": "outro",
+      "background": "blocks"
+    }
+  ],
+  "validation": {
+    "video": "variable-minecraft.mp4",
+    "generatedAt": "2026-11-14T20:04:34.227Z",
+    "durationSec": 61.035,
+    "sizeBytes": 15327368,
+    "result": "OK",
+    "checks": [
+      {
+        "name": "Stream de video",
+        "status": "ok",
+        "detail": "h264 1080x1920"
+      },
+      {
+        "name": "Códec H.264",
+        "status": "ok",
+        "detail": "h264"
+      },
+      {
+        "name": "Resolución 1080x1920 (9:16)",
+        "status": "ok",
+        "detail": "1080x1920"
+      },
+      {
+        "name": "FPS = 30",
+        "status": "ok",
+        "detail": "30.00"
+      },
+      {
+        "name": "Píxel yuv420p (rango TV)",
+        "status": "ok",
+        "detail": "yuv420p tv"
+      },
+      {
+        "name": "Stream de audio AAC",
+        "status": "ok",
+        "detail": "aac 48000 Hz"
+      },
+      {
+        "name": "Duración = timeline",
+        "status": "ok",
+        "detail": "61.035 s vs 61.033 s esperados"
+      },
+      {
+        "name": "Duración en rango 30-90 s",
+        "status": "ok",
+        "detail": "61.0 s"
+      },
+      {
+        "name": "Audio cubre el video",
+        "status": "ok",
+        "detail": "audio 61.03 s"
+      },
+      {
+        "name": "Decodificación íntegra",
+        "status": "ok",
+        "detail": "sin errores"
+      },
+      {
+        "name": "Sin tramos en negro (≥0,5 s)",
+        "status": "ok",
+        "detail": "ninguno (246 muestras)"
+      },
+      {
+        "name": "Sin imagen congelada (≥4 s)",
+        "status": "ok",
+        "detail": "ninguno"
+      },
+      {
+        "name": "Volumen medio audible (> -35 dBFS)",
+        "status": "ok",
+        "detail": "-20.4 dBFS"
+      },
+      {
+        "name": "Sin saturación (pico < -0,1 dBFS)",
+        "status": "ok",
+        "detail": "-1.1 dBFS"
+      },
+      {
+        "name": "Sin silencios largos (>1,5 s)",
+        "status": "ok",
+        "detail": "ninguno"
+      },
+      {
+        "name": "Subtítulos dentro del video",
+        "status": "ok",
+        "detail": "último subtítulo termina en 59.96 s"
+      },
+      {
+        "name": "Cada escena tiene subtítulos dentro de su audio",
+        "status": "ok",
+        "detail": "ok"
+      },
+      {
+        "name": "Fotogramas de revisión",
+        "status": "ok",
+        "detail": "14 en review/"
+      }
+    ],
+    "manualReviewRequired": [
+      "Revisar review/index.html (texto fuera de pantalla, solapes, legibilidad).",
+      "Ver el MP4 completo con audio: pronunciación, ritmo y sincronía de subtítulos.",
+      "Confirmar exactitud técnica frente a sources.md antes de publicar."
+    ]
+  },
+  "approvedForPublishing": false
+}

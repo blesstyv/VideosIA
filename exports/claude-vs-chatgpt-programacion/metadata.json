@@ -1,0 +1,196 @@
+{
+  "slug": "claude-vs-chatgpt-programacion",
+  "topic": "Claude vs ChatGPT para programación: ¿cuál conviene y vale la pena pagar un plan?",
+  "category": "ia",
+  "platform": "todas",
+  "fps": 30,
+  "resolution": "1080x1920",
+  "durationSec": 66.33333333333333,
+  "publish": {
+    "title": "Claude vs ChatGPT para programar: ¿vale la pena pagar? (2026)",
+    "description": "Comparé los planes oficiales de Claude y ChatGPT para programar: qué incluye el plan gratis, qué te da el de 20 dólares (Claude Code y Codex) y cuándo tienen sentido los planes de 100 o más.\n\nPrecios en USD de EE. UU., sin impuestos, consultados el 15/11/2026 en las páginas oficiales de Anthropic y OpenAI. Pueden variar en tu país.\n\nTransparencia: guion investigado y redactado con ayuda de IA (Claude, de Anthropic). El veredicto es una recomendación del canal y la animación del agente es una recreación ilustrativa.",
+    "hashtags": [
+      "#claude",
+      "#chatgpt",
+      "#programacion",
+      "#ia",
+      "#inteligenciaartificial",
+      "#codex",
+      "#claudecode"
+    ]
+  },
+  "tts": {
+    "provider": "elevenlabs"
+  },
+  "music": null,
+  "scenes": [
+    {
+      "id": "gancho",
+      "start": 0,
+      "duration": 6.133333333333334,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "metodo",
+      "start": 6.133333333333334,
+      "duration": 5.2,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "gratis",
+      "start": 11.333333333333334,
+      "duration": 11.333333333333334,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "agente",
+      "start": 22.666666666666668,
+      "duration": 7.7,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "plan-20",
+      "start": 30.366666666666667,
+      "duration": 7.733333333333333,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "limites",
+      "start": 38.1,
+      "duration": 4.666666666666667,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "planes-caros",
+      "start": 42.766666666666666,
+      "duration": 7.2,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "veredicto",
+      "start": 49.96666666666667,
+      "duration": 11.633333333333333,
+      "visual": "illustration",
+      "background": "aurora"
+    },
+    {
+      "id": "cierre",
+      "start": 61.6,
+      "duration": 4.733333333333333,
+      "visual": "illustration",
+      "background": "aurora"
+    }
+  ],
+  "validation": {
+    "video": "claude-vs-chatgpt-programacion.mp4",
+    "generatedAt": "2026-11-15T17:26:52.212Z",
+    "durationSec": 66.347,
+    "sizeBytes": 35196715,
+    "result": "OK_CON_AVISOS",
+    "checks": [
+      {
+        "name": "Stream de video",
+        "status": "ok",
+        "detail": "h264 1080x1920"
+      },
+      {
+        "name": "Códec H.264",
+        "status": "ok",
+        "detail": "h264"
+      },
+      {
+        "name": "Resolución 1080x1920 (9:16)",
+        "status": "ok",
+        "detail": "1080x1920"
+      },
+      {
+        "name": "FPS = 30",
+        "status": "ok",
+        "detail": "30.00"
+      },
+      {
+        "name": "Píxel yuv420p (rango TV)",
+        "status": "ok",
+        "detail": "yuv420p tv"
+      },
+      {
+        "name": "Stream de audio AAC",
+        "status": "ok",
+        "detail": "aac 48000 Hz"
+      },
+      {
+        "name": "Duración = timeline",
+        "status": "ok",
+        "detail": "66.347 s vs 66.333 s esperados"
+      },
+      {
+        "name": "Duración en rango 45-90 s",
+        "status": "ok",
+        "detail": "66.3 s"
+      },
+      {
+        "name": "Audio cubre el video",
+        "status": "ok",
+        "detail": "audio 66.35 s"
+      },
+      {
+        "name": "Decodificación íntegra",
+        "status": "ok",
+        "detail": "sin errores"
+      },
+      {
+        "name": "Sin tramos en negro (≥0,5 s)",
+        "status": "ok",
+        "detail": "ninguno (267 muestras)"
+      },
+      {
+        "name": "Sin imagen congelada (≥4 s)",
+        "status": "ok",
+        "detail": "ninguno"
+      },
+      {
+        "name": "Volumen medio audible (> -35 dBFS)",
+        "status": "ok",
+        "detail": "-19.9 dBFS"
+      },
+      {
+        "name": "Sin saturación (pico < -0,1 dBFS)",
+        "status": "ok",
+        "detail": "-0.6 dBFS"
+      },
+      {
+        "name": "Sin silencios largos (>1,5 s)",
+        "status": "warn",
+        "detail": "64.7-66.3 s"
+      },
+      {
+        "name": "Subtítulos dentro del video",
+        "status": "ok",
+        "detail": "último subtítulo termina en 64.63 s"
+      },
+      {
+        "name": "Cada escena tiene subtítulos dentro de su audio",
+        "status": "ok",
+        "detail": "ok"
+      },
+      {
+        "name": "Fotogramas de revisión",
+        "status": "ok",
+        "detail": "18 en review/"
+      }
+    ],
+    "manualReviewRequired": [
+      "Revisar review/index.html (texto fuera de pantalla, solapes, legibilidad).",
+      "Ver el MP4 completo con audio: pronunciación, ritmo y sincronía de subtítulos.",
+      "Confirmar exactitud técnica frente a sources.md antes de publicar."
+    ]
+  },
+  "approvedForPublishing": false
+}
