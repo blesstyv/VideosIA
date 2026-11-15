@@ -1,0 +1,411 @@
+{
+  "title": "Por qué usar IA: este video lo hizo Claude",
+  "stamp": "Hecho con IA · 15 nov 2026",
+  "pronunciation": {
+    "Claude": "Clod",
+    "Code": "Cóud",
+    "Anthropic": "Antrópic",
+    "IA": "i a"
+  },
+  "scenes": [
+    {
+      "id": "gancho",
+      "section": "intro",
+      "narration": "Este video no lo editó nadie a mano. Lo construí con una IA, y te voy a mostrar cómo.",
+      "transitionIn": "none",
+      "visual": {
+        "type": "kinetic",
+        "text": "Lo construí con una IA",
+        "emphasis": [
+          "IA"
+        ],
+        "size": "xl",
+        "eyebrow": "Este mismo video"
+      }
+    },
+    {
+      "id": "por-que",
+      "section": "intro",
+      "narration": "¿Por qué usar IA? Porque un video son muchas tareas: investigar, escribir, narrar, animar y revisar. Y casi siempre las haces tú solo.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "bullets",
+        "heading": "Un video son muchas tareas",
+        "items": [
+          {
+            "text": "Investigar",
+            "atWord": "investigar"
+          },
+          {
+            "text": "Escribir",
+            "atWord": "escribir"
+          },
+          {
+            "text": "Narrar y animar",
+            "atWord": "narrar"
+          },
+          {
+            "text": "Revisar",
+            "atWord": "revisar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "herramienta",
+      "section": "desarrollo",
+      "narration": "Yo uso Claude Code, de Anthropic: una herramienta que lee tu proyecto, edita archivos y ejecuta comandos por ti.",
+      "transitionIn": "slide",
+      "visual": {
+        "type": "title",
+        "kicker": "La herramienta",
+        "title": "*Claude* Code",
+        "subtitle": "Lee tu proyecto, edita y ejecuta"
+      },
+      "background": {
+        "kind": "grid"
+      }
+    },
+    {
+      "id": "tema",
+      "section": "ejemplo",
+      "narration": "Así nació este video. Primero le di el tema, y Claude investigó en la documentación oficial.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "bullets",
+        "heading": "Pasos 1 y 2",
+        "items": [
+          {
+            "text": "Yo: el tema",
+            "atWord": "tema,"
+          },
+          {
+            "text": "Claude: investiga",
+            "atWord": "investigó"
+          }
+        ]
+      }
+    },
+    {
+      "id": "guion",
+      "section": "ejemplo",
+      "narration": "Luego escribió el guion. Es un archivo de datos: cada escena dice qué se narra y qué se muestra.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "code",
+        "language": "javascript",
+        "filename": "script.json",
+        "code": "{\n  \"id\": \"gancho\",\n  \"section\": \"intro\",\n  \"narration\": \"Este video\",\n  \"visual\": \"kinetic\"\n}",
+        "highlight": [
+          4,
+          5
+        ],
+        "highlightAtWord": "narra",
+        "note": "Un guion en datos",
+        "noteAtWord": "datos",
+        "verify": false
+      },
+      "background": {
+        "kind": "grid"
+      }
+    },
+    {
+      "id": "fuentes",
+      "section": "ejemplo",
+      "narration": "Los datos no se inventan: cada afirmación se marca como verificada y apunta a su fuente oficial.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "code",
+        "language": "javascript",
+        "filename": "claims",
+        "code": "{\n  \"status\": \"verified\",\n  \"sources\": [\n    \"claude-code-docs\"\n  ]\n}",
+        "highlight": [
+          2,
+          4
+        ],
+        "highlightAtWord": "verificada",
+        "verify": false
+      }
+    },
+    {
+      "id": "render",
+      "section": "ejemplo",
+      "narration": "Después, el proyecto generó la voz sintética, la sincronizó con la animación, renderizó el video y validó el resultado.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "bullets",
+        "heading": "El proyecto hace el resto",
+        "items": [
+          {
+            "text": "Voz sintética",
+            "atWord": "sintética,"
+          },
+          {
+            "text": "Animación sincronizada",
+            "atWord": "sincronizó"
+          },
+          {
+            "text": "Render del video",
+            "atWord": "renderizó"
+          },
+          {
+            "text": "Validación",
+            "atWord": "validó"
+          }
+        ]
+      }
+    },
+    {
+      "id": "revision",
+      "section": "ejemplo",
+      "narration": "Y lo más importante: Claude revisó los fotogramas uno por uno, buscando texto cortado o encimado, y corrigió lo que fallaba.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "kinetic",
+        "text": "Revisó los fotogramas uno por uno",
+        "emphasis": [
+          "fotogramas"
+        ],
+        "size": "lg",
+        "eyebrow": "Control de calidad"
+      },
+      "background": {
+        "kind": "blocks"
+      }
+    },
+    {
+      "id": "cambios",
+      "section": "desarrollo",
+      "narration": "Si algo no te gusta, lo pides en una frase. La voz del video anterior iba lenta, pedí más velocidad y se ajustó.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "chat",
+        "window": "Terminal",
+        "side": "n",
+        "terminal": true,
+        "prompt": "Habla un poco más rápido",
+        "reply": "Listo: velocidad ajustada y video regenerado.",
+        "language": "text"
+      }
+    },
+    {
+      "id": "humano",
+      "section": "desarrollo",
+      "narration": "Pero la IA no decide sola. Yo pongo la idea y apruebo el resultado; Claude investiga, escribe y produce.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "verdict",
+        "title": "Quién hace qué",
+        "items": [
+          {
+            "profile": "Yo",
+            "pick": "Idea y aprobación",
+            "atWord": "idea"
+          },
+          {
+            "profile": "Claude",
+            "pick": "Investiga y produce",
+            "atWord": "investiga,"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ventajas",
+      "section": "desarrollo",
+      "narration": "¿Las ventajas? Velocidad, porque todo ocurre en una sola conversación. Y consistencia, porque cada video sigue el mismo flujo.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "bullets",
+        "heading": "Ventajas",
+        "items": [
+          {
+            "text": "Velocidad",
+            "atWord": "velocidad,"
+          },
+          {
+            "text": "Consistencia",
+            "atWord": "consistencia,"
+          }
+        ]
+      },
+      "background": {
+        "kind": "aurora"
+      }
+    },
+    {
+      "id": "ventajas-2",
+      "section": "desarrollo",
+      "narration": "Datos con fuente, porque cada afirmación queda registrada. Y si cambias de tema, repites el flujo en vez de empezar de cero.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "versus",
+        "title": "A mano vs con IA",
+        "left": "A mano",
+        "right": "Con IA",
+        "rows": [
+          {
+            "label": "Datos",
+            "left": "Buscas y anotas",
+            "right": "Fuente en cada dato",
+            "edge": "none",
+            "atWord": "fuente"
+          },
+          {
+            "label": "Otro tema",
+            "left": "Empiezas de cero",
+            "right": "Repites el flujo",
+            "edge": "none",
+            "atWord": "repites"
+          }
+        ]
+      }
+    },
+    {
+      "id": "limites",
+      "section": "desarrollo",
+      "narration": "También tiene límites: la IA puede equivocarse. Por eso cada dato se verifica y todo se revisa antes de publicar.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "kinetic",
+        "text": "La IA puede equivocarse",
+        "emphasis": [
+          "equivocarse"
+        ],
+        "size": "lg",
+        "eyebrow": "Ojo"
+      },
+      "background": {
+        "kind": "blocks"
+      }
+    },
+    {
+      "id": "cierre",
+      "section": "cierre",
+      "narration": "Mi consejo: úsala como copiloto, no como piloto automático. Tú pones el criterio; ella, la velocidad. Dime en comentarios qué tema armamos.",
+      "transitionIn": "fade",
+      "visual": {
+        "type": "outro",
+        "title": "La IA es tu copiloto",
+        "points": [
+          "Tú decides",
+          "La IA ejecuta",
+          "Tú apruebas"
+        ],
+        "cta": "¿Qué tema armamos?"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "text": "Claude Code lee la base de código, edita archivos y ejecuta comandos.",
+      "status": "verified",
+      "sources": [
+        "claude-code-docs"
+      ],
+      "sceneIds": [
+        "herramienta"
+      ]
+    },
+    {
+      "text": "El flujo del proyecto: tema → investigación → guion en script.json → voz sintética (TTS) → render con Remotion → validación → exportación.",
+      "status": "verified",
+      "sources": [
+        "repo",
+        "remotion-npm"
+      ],
+      "sceneIds": [
+        "tema",
+        "guion",
+        "render"
+      ]
+    },
+    {
+      "text": "Cada afirmación técnica del guion se registra como verificada con sus fuentes.",
+      "status": "verified",
+      "sources": [
+        "repo"
+      ],
+      "sceneIds": [
+        "fuentes",
+        "ventajas-2"
+      ]
+    },
+    {
+      "text": "Claude revisa los fotogramas exportados (texto cortado, solapes) y corrige antes de entregar; la publicación la hace el usuario tras aprobar.",
+      "status": "verified",
+      "sources": [
+        "repo"
+      ],
+      "sceneIds": [
+        "revision",
+        "humano"
+      ]
+    },
+    {
+      "text": "Un video implica varias tareas (investigar, escribir, narrar, animar, revisar).",
+      "status": "illustrative",
+      "sources": [],
+      "sceneIds": [
+        "por-que"
+      ]
+    },
+    {
+      "text": "La IA puede equivocarse; por eso se verifica y se revisa antes de publicar.",
+      "status": "illustrative",
+      "sources": [],
+      "sceneIds": [
+        "limites"
+      ]
+    },
+    {
+      "text": "Ventajas: velocidad, consistencia y flujo repetible (descripción del propio proceso, no una medición).",
+      "status": "illustrative",
+      "sources": [],
+      "sceneIds": [
+        "ventajas",
+        "ventajas-2"
+      ]
+    },
+    {
+      "text": "Escena del chat: recreación del ajuste de velocidad de voz pedido por el creador.",
+      "status": "illustrative",
+      "sources": [],
+      "sceneIds": [
+        "cambios"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "claude-code-docs",
+      "title": "Claude Code — Overview",
+      "url": "https://code.claude.com/docs/en/overview",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "repo",
+      "title": "VideosIA — flujo de producción (docs/WORKFLOW.md y CLAUDE.md)",
+      "url": "https://github.com/blesstyv/VideosIA/blob/main/docs/WORKFLOW.md",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": "remotion-npm",
+      "title": "remotion (paquete npm): «Make videos programmatically»",
+      "url": "https://www.npmjs.com/package/remotion",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "publish": {
+    "title": "Por qué usar IA: este video lo hizo Claude (y así lo hice)",
+    "description": "Este mismo video lo construí con Claude Code: tema, investigación, guion, voz, animación, render y revisión de fotogramas. Te cuento el flujo, las ventajas y los límites de crear contenido con IA.\n\nTransparencia: guion y producción hechos con ayuda de IA (Claude, de Anthropic); la voz es sintética. Yo elijo el tema, apruebo el resultado y publico. El chat del video es una recreación ilustrativa.",
+    "hashtags": [
+      "#ia",
+      "#claude",
+      "#claudecode",
+      "#inteligenciaartificial",
+      "#creadordecontenido",
+      "#automatizacion"
+    ]
+  }
+}

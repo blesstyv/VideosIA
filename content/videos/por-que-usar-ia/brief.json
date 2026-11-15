@@ -1,0 +1,24 @@
+{
+  "slug": "por-que-usar-ia",
+  "topic": "Por qué usar IA para crear contenido: este mismo video lo hizo Claude",
+  "category": "ia",
+  "platform": "todas",
+  "style": "tecnológico, dinámico, claro",
+  "targetSeconds": {
+    "min": 100,
+    "max": 130
+  },
+  "fps": 30,
+  "tts": {
+    "provider": "azure",
+    "voice": "Microsoft Sabina Desktop",
+    "rate": 0,
+    "azure": {
+      "voice": "es-MX-JorgeNeural",
+      "rate": "+7%",
+      "pitch": "+0%",
+      "freeTier": true
+    }
+  },
+  "sfx": true
+}
